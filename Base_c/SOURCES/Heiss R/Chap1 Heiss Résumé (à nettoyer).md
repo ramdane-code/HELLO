@@ -1099,13 +1099,13 @@ Wooldridge (2019) propose un aperçu concis de l'échantillonnage, de l'estimati
 <font color="#00b0f0">Les intervalles de confiance (IC) couvrent le véritable paramètre de population d'intérêt avec une probabilité donnée, par exemple 95 %.</font> <font color="#00b050">Plus clairement : pour 95 % de tous les échantillons, l'IC implicite inclut le paramètre de population.</font>
 
 Pour une population normale dont la μ moyenne  et la variance σ2 sont inconnues, l'IC 100(1-α)% pour μ est :
- $\left[\bar{y}-c_{\frac{\alpha}{2}}\cdot s e(\bar{y}),\quad\bar{y}+c_{\frac{\alpha}{2}}\cdot s e(\bar{y})\right]$
+ $\left[\bar{y}-c_{\frac{\alpha}{2}}\cdot s e(/bar{y}),\quad\bar{y}+c_{\frac{\alpha}{2}}\cdot s e(/bar{y})\right]$
  
-où $\bar y$  est la moyenne de l'échantillon, se($\bar y$ ̄) = (Racine de s)/n est l'erreur standard de $\bar y$ (s étant l'écart-type de l'échantillon de y), n est la taille de l'échantillon et cα/2,  le  quantile (1 – α) de la  distribution t_(n−1). 
+où $\bar y$  est la moyenne de l'échantillon, se($/bar y$ ̄) = (Racine de s)/n est l'erreur standard de $\bar y$ (s étant l'écart-type de l'échantillon de y), n est la taille de l'échantillon et cα/2,  le  quantile (1 – α) de la  distribution t_(n−1). 
 Pour obtenir l'IC à 95 % (α = 5 %), nous avons besoin de c_0,025 , qui est   le quantile de 0,975 ou 97,5e quantile.
 Nous savons déjà comment calculer tous ces ingrédients. 
 <font color="#00b0f0">Si notre échantillon est stocké sous forme de vecteur y,</font> <font color="#c0504d">le code suivant les calculera ainsi que l'intervalle de confiance</font> :
-$\left[\bar{y}-c_{\frac{\alpha}{2}}\cdot s e(\bar{y}),\quad\bar{y}+c_{\frac{\alpha}{2}}\cdot s e(\bar{y})\right]$
+$\left[\bar{y}-c_{\frac{\alpha}{2}}\cdot s e(/bar{y}),\quad\bar{y}+c_{\frac{\alpha}{2}}\cdot s e(/bar{y})\right]$
 
 ```
 $\bar y$ <-  mean(y)
@@ -1113,7 +1113,7 @@ n <- length(y)
 s <- sd(y)
 se <- s/sqrt(n)
 c <- qt(.975, n-1)
-CI <- c( $\bar y$ - c*se, $\bar y$ + c*se )
+CI <- c( $/bar y$ - c*se, $/bar y$ + c*se )
 ```
 
 <font color="#00b050">Une méthode plus pratique pour calculer l'IC, avec  le test t correspondant est proposée dans Section 1.8.4.</font>
@@ -1166,7 +1166,7 @@ Nous étudions la discrimination raciale en utilisant le<font color="#c0504d"> d
 <font color="#c0504d">Étant donné l'hypothèse nulle H0 :</font> μ = $μ_0$,      
 t=  $\frac {\bar y – y_0 }{se\bar y}$
 Étant donné les calculs présentés à la Section 1.8.1., t <font color="#00b0f0">pour l'hypothèse nulle H0 : μ = 1</font> serait 
-t <- ($\bar y$-1) / se
+t <- ($/bar y$-1) / se
 
 <font color="#c00000">La valeur critique de cette statistique de test dépend du fait que le test soit unilatéral ou bilatéral.</font>
 La valeur nécessaire pour un test bilatéral ($c_{α/2}$) a déjà été calculée pour l'intervalle de confiance ; les autres valeurs peuvent être générées en conséquence. 
@@ -1468,11 +1468,11 @@ for(j in 1:r) {
  <font color="#c0504d"># The first 20 of 10000 estimates:</font>
  $\bar y$[1:20]
 <font color="#c0504d"> # Simulated mean:</font>
- mean($\bar y$)
+ mean($/bar y$)
 <font color="#c0504d"> # Simulated variance:</font>
- var($\bar y$)
+ var($/bar y$)
 <font color="#c0504d"> # Simulated density:</font>
- plot(density($\bar y$))
+ plot(density($/bar y$))
  curve( dnorm(x,10,sqrt(.04)), add=TRUE,lty=2)	
 
 Rappelez-vous : <font color="#00b050">pour la plupart des estimateurs avancés, de telles simulations sont la seule façon d'étudier certaines de leurs caractéristiques,</font> <font color="#c0504d">car il est impossible d'obtenir des résultats théoriques intéressants. </font>
@@ -1480,12 +1480,12 @@ Rappelez-vous : <font color="#00b050">pour la plupart des estimateurs avancés, 
 ## Propriétés asymptotiques des estimateurs
 <font color="#7030a0">Les analyses asymptotiques concernent de grands échantillons</font> et <font color="#00b0f0">le comportement des estimateurs et autres statistiques à mesure que la taille de l'échantillon n augmente sans borne.</font> 
 
-Selon la `loi des grands nombres` <font color="#00b0f0">la moyenne d'échantillonnage </font>$\bar Y$ <font color="#00b0f0">converge en probabilité vers la moyenne de population </font>μ <font color="#00b0f0">quand </font>n → ∞. <font color="#c0504d">Pour un échantillon (infiniment) grand</font> , <font color="#00b050">cela implique que</font> E($\bar Y$) <font color="#00b050">tend vers</font> μ <font color="#00b050">et</font> Var($\bar Y$) <font color="#00b050">tend vers 0.</font>
+Selon la `loi des grands nombres` <font color="#00b0f0">la moyenne d'échantillonnage </font>$\bar Y$ <font color="#00b0f0">converge en probabilité vers la moyenne de population </font>μ <font color="#00b0f0">quand </font>n → ∞. <font color="#c0504d">Pour un échantillon (infiniment) grand</font> , <font color="#00b050">cela implique que</font> E($/bar Y$) <font color="#00b050">tend vers</font> μ <font color="#00b050">et</font> Var($/bar Y$) <font color="#00b050">tend vers 0.</font>
 <font color="#00b0f0">Afin de vérifier cette loi des grands nombres avec la simulation de Monte Carlo</font>, <font color="#c0504d">on va changer la taille de l'échantillon de l'exemple précédent</font> et voir ce qu'il en résulte. 
 - Changer la taille de l'échantillon dans la ligne de code `sample <- rnorm(100,10,2)` de 100 à un nombre autre 
 - et réexécuter le code de simulation.
 <font color="#00b0f0">Les résultats pour des tailles de l'échantillon n = 10, 50, 100 et 1000 sont présentés à la Figure 1.25.</font> 
-- la variance de $\bar Y$ diminue en fait. Le graphique de la densité pour n = 1000 est déjà très étroit et élevé, indiquant une faible variance. Il semble plausible que la densité finira par s'effondrer en une seule droite verticale correspondante à Var($\bar Y$ =  0 qand n tend vers ∞.
+- la variance de $\bar Y$ diminue en fait. Le graphique de la densité pour n = 1000 est déjà très étroit et élevé, indiquant une faible variance. Il semble plausible que la densité finira par s'effondrer en une seule droite verticale correspondante à Var($/bar Y$ =  0 qand n tend vers ∞.
 - <font color="#00b0f0">Le théorème central limite (CLT) énonce que quand n (la taille d'un échantillon aléatoire) tend vers l'infini, sa moyenne (l'Espérance) </font>$\bar Y$<font color="#c0504d"><u>sera normalement distribuée quelle que soit la distribution de Y.</u></font> <font color="#00b050">Ce phénomène est appelé convergence dans la distribution.</font>
 - Dans l'exemple utilisé pour les simulations, la variable aléatoire Y est normalement distribuée, donc la moyenne de l'échantillon $\bar Y$ doit également être normalement distribuée pour n'importe quelle taille d'échantillon. 
 
@@ -1554,3 +1554,4 @@ Si la théorie et l'implémentation en R sont exactes,
  reject1<-pvalue1<=0.05; reject2<-pvalue2<=0.05
  table(reject1)
  table(reject2)
+

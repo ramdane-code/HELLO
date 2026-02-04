@@ -10,16 +10,16 @@ Nous avons déjà utilisé de telles variables muettes comme régresseurs au Cha
 
 Les variables dépendantes binaires sont fréquemment étudiées en économétrie appliquée. 
 <font color="#c0504d">Parce qu'une variable muette</font> $y$ <font color="#c0504d">ne peut prendre que les valeurs 0 et 1</font>, <font color="#00b0f0">son espérance (conditionnelle) est égale à la probabilité (conditionnelle) que </font>$y = 1$ :  
-   $$\text{E}(y|\mathbf{x}) = 0 \cdot \text{P}(y = 0|\mathbf{x}) + 1 \cdot \text{P}(y = 1|\mathbf{x}) = \text{P}(y = 1|\mathbf{x}) \tag{17.1}$$
+   $$\text{E}(y|/mathbf{x}) = 0 \cdot \text{P}(y = 0|/mathbf{x}) + 1 \cdot \text{P}(y = 1|/mathbf{x}) = \text{P}(y = 1|/mathbf{x}) \tag{17.1}$$
 Ainsi, <font color="#c0504d">lorsque nous étudions l'espérance conditionnelle, il est logique d'y penser comme à la probabilité du résultat</font> $y = 1$. <font color="#00b0f0">De même, la valeur prédite</font> $\hat{y}$ <font color="#00b0f0">doit être considérée comme une probabilité prédite.</font>
 
 ### 17.1.1. Modèles de Probabilité Linéaire
 <font color="#7030a0">Si une variable muette est utilisée comme variable dépendante </font>$y$, <font color="#00b0f0">nous pouvons toujours utiliser MCO pour estimer sa relation avec les régresseurs</font> $\mathbf{x}$. Ces modèles de probabilité linéaire sont couverts par Wooldridge (2019) dans la Section 7.5.
 
 <font color="#c0504d">Si nous écrivons le modèle de régression linéaire habituel</font> : $y = \beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k + u \tag{17.2}$
-et faisons les hypothèses habituelles, en particulier MLR.4 : $\text{E}(u | \mathbf{x}) = 0$, cela implique pour l'espérance conditionnelle (qui est la probabilité que $y = 1$) et les probabilités prédites  
-$\text{P}(y = 1|\mathbf{x}) = \text{E}(y|\mathbf{x}) = \beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k \tag{17.3}$
-$\hat{\text{P}} (y = 1|\mathbf{x}) = \hat{y} = \hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k \tag{17.4}$
+et faisons les hypothèses habituelles, en particulier MLR.4 : $\text{E}(u | /mathbf{x}) = 0$, cela implique pour l'espérance conditionnelle (qui est la probabilité que $y = 1$) et les probabilités prédites  
+$\text{P}(y = 1|/mathbf{x}) = \text{E}(y|/mathbf{x}) = \beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k \tag{17.3}$
+$\hat{\text{P}} (y = 1|/mathbf{x}) = \hat{y} = \hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k \tag{17.4}$
 <font color="#c0504d">L'interprétation des paramètres est simple</font> : 
 $\beta_j$ <font color="#00b0f0">est une mesure du changement moyen de probabilité d'un "succès" </font>($y = 1$)<font color="#00b0f0"> lorsque</font> $x_j$ <font color="#00b0f0">augmente d'une unité et les autres déterminants restent constants.</font> 
 <font color="#c0504d">Les modèles de probabilité linéaire souffrent automatiquement d'hétéroscédasticité,</font> <font color="#00b050">donc avec MCO, nous devrions utiliser des inférences robustes à l'hétéroscédasticité</font>, voir Section 8.1.
@@ -43,7 +43,7 @@ Script 17.1: Example-17-1-1.R
 ```
 
 <font color="#c0504d">Un problème avec les modèles de probabilité linéaire</font> est que 
-- $\text{P}(y = 1 | \mathbf{x})$ est spécifiée comme une fonction linéaire des régresseurs. 
+- $\text{P}(y = 1 | /mathbf{x})$ est spécifiée comme une fonction linéaire des régresseurs. 
 - Par construction, il existe des combinaisons (+ ou - réalistes) de valeurs de régresseurs qui donnent $\hat{y} < 0$ ou $\hat{y} > 1$
 - Puisque ce sont des probabilités, cela n'a pas vraiment de sens.
 
@@ -64,7 +64,7 @@ Script 17.2: Example-17-1-2.R
 
 ### 17.1.2. Modèles Logit et Probit : Estimation
 
-<font color="#c0504d">Des modèles spécialisés pour les réponses binaires s'assurent que les probabilités implicites sont restreintes entre 0 et 1.</font> Une classe importante de modèles spécifie la probabilité de succès comme  $\text{P}(y = 1|\mathbf{x}) = G(\beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k) = G(\mathbf{x}\boldsymbol{\beta}) \tag{17.5}$
+<font color="#c0504d">Des modèles spécialisés pour les réponses binaires s'assurent que les probabilités implicites sont restreintes entre 0 et 1.</font> Une classe importante de modèles spécifie la probabilité de succès comme  $\text{P}(y = 1|/mathbf{x}) = G(/beta_0 + /beta_1 x_1 + /cdots + /beta_k x_k) = G(/mathbf{x}/boldsymbol{/beta}) \tag{17.5}$
 où <font color="#00b0f0">la "fonction de lien"</font> $G(z)$ <font color="#00b0f0">renvoie toujours des valeurs entre 0 et 1</font>. Dans la littérature statistique, <font color="#c00000">ce type de modèles est souvent appelé modèle linéaire généralisé (GLM)</font> car une partie linéaire $\mathbf{x}\boldsymbol{\beta}$ apparaît à l'intérieur de la fonction non linéaire $G$.
 
 Pour les modèles à réponse binaire, de loin <font color="#00b0f0">les spécifications les plus largement utilisées pour </font>$G$ sont
@@ -79,16 +79,16 @@ Wooldridge (2019, Section 17.1) fournit des discussions utiles sur la dérivatio
 <font color="#00b050">L'estimation du maximum de vraisemblance (MLE) des paramètres est faite automatiquement et le</font> `summary` <font color="#00b050">des résultats contient le tableau de régression le plus important et des informations supplémentaires. </font>
 
 <font color="#c0504d">Les Scripts 17.3 </font>(Example-17-1-3.R)<font color="#c0504d"> et 17.4</font> (Example-17-1-4.R) <font color="#c0504d">implémentent cela pour les modèles logit et probit,</font> respectivement. 
-- La valeur de log-vraisemblance $L(\hat{\boldsymbol{\beta}})$ n'est pas rapportée par défaut mais peut être demandée avec la fonction `logLik`
+- La valeur de log-vraisemblance $L(/hat{/boldsymbol{/beta}})$ n'est pas rapportée par défaut mais peut être demandée avec la fonction `logLik`
 - Au lieu de cela, une statistique appelée Déviance résiduelle est rapportée dans la sortie standard. 
-	- Elle est simplement définie comme $D(\hat{\boldsymbol{\beta}}) = -2L(\hat{\boldsymbol{\beta}})$. 
+	- Elle est simplement définie comme $D(/hat{/boldsymbol{/beta}}) = -2L(/hat{/boldsymbol{/beta}})$. 
 	- La déviance nulle signifie $D_0 = -2L_0$ où $L_0$ est la vraisemblance d'un modèle avec seulement une constante.
 
 <font color="#00b050">Les deux statistiques de déviance peuvent être accessées </font>pour des calculs supplémentaires à partir d'un résultat stocké res avec `res$deviance` et `res$null.deviance`. 
 <font color="#00b0f0">Les Scripts 17.3 </font>(Example-17-1-3.R) et 17.4 (Example-17-1-4.R)<font color="#00b0f0"> présentent le calcul de différentes statistiques dérivées de ces résultats.</font>
 
 <font color="#d83931">Le pseudo R-carré de McFadden peut être calculé comme  </font>
-$\text{pseudo } R^2 = 1 - \frac{L(\hat{\boldsymbol{\beta}})}{L_0} = 1 - \frac{D(\hat{\boldsymbol{\beta}})}{D_0}. \tag{17.6}$
+$\text{pseudo } R^2 = 1 - \frac{L(/hat{/boldsymbol{/beta}})}{L_0} = 1 - \frac{D(/hat{/boldsymbol{/beta}})}{D_0}. \tag{17.6}$
  
 ```
 Script 17.3: Example-17-1-3.R
@@ -144,7 +144,7 @@ La conclusion est que les tests pour des paramètres uniques peuvent être faits
 - et $D_{ur}$ et $D_r$ sont les statistiques de déviance rapportées correspondantes. 
 Sous $H_0$, la statistique de test $LR$ est asymptotiquement distribuée comme $\chi^2$ avec les degrés de liberté égaux au nombre de restrictions à tester. 
 L<font color="#c0504d">e test de significativité globale est un cas particulier comme avec les tests-</font>$F$.<font color="#00b0f0"> L'hypothèse nulle est que tous les paramètres sauf la constante sont égaux à zéro</font>. Avec la notation ci-dessus, la statistique de test est  
-$LR = 2\left[ L(\hat{\boldsymbol{\beta}}) - L_0 \right] = D_0 - D(\hat{\boldsymbol{\beta}}). \tag{17.8}$
+$LR = 2\left[ L(/hat{/boldsymbol{/beta}}) - L_0 \right] = D_0 - D(/hat{/boldsymbol{/beta}}). \tag{17.8}$
 <font color="#00b0f0">Traduit en $R$ avec des résultats de modèle ajustés stockés dans res, cela correspond à</font>  
 `LR = res$null.deviance - res$deviance`
 
@@ -183,8 +183,8 @@ Script 17.5: Example-17-1-5.R
 Étant donné que les résultats sont stockés dans la variable res, nous pouvons calculer
 - $\mathbf{x}_i \hat{\boldsymbol{\beta}}$ pour l'échantillon d'estimation avec `predict(res)`
 - $\mathbf{x}_i \hat{\boldsymbol{\beta}}$ pour les valeurs de régresseurs stockées dans xpred avec `predict(res, xpred)`
-- $\hat{y} = G(\mathbf{x}_i \hat{\boldsymbol{\beta}})$ pour l'échantillon d'estimation avec `predict(res, type = "response")`
-- $\hat{y} = G(\mathbf{x}_i \hat{\boldsymbol{\beta}})$ pour les valeurs de régresseurs stockées dans xpred avec `predict(res, xpred, type = "response")`
+- $\hat{y} = G(/mathbf{x}_i /hat{/boldsymbol{/beta}})$ pour l'échantillon d'estimation avec `predict(res, type = "response")`
+- $\hat{y} = G(/mathbf{x}_i /hat{/boldsymbol{/beta}})$ pour les valeurs de régresseurs stockées dans xpred avec `predict(res, xpred, type = "response")`
 
 <font color="#00b0f0">Les prédictions pour les deux femmes hypothétiques introduites dans la Section 17.1.1 sont répétées pour les modèles de probabilité linéaire, logit et probit dans le Script 17.6</font> (Example-17-1-6.R).
 
@@ -211,18 +211,18 @@ Pour les lecteurs intéressés, le script utilisé pour générer les données e
 C'est un constat général qui vaut pour la plupart des ensembles de données.
 
 ### 17.1.5. Effets Partiels
-<font color="#c0504d">Les paramètres des modèles de régression linéaire ont des interprétations simples</font> : $\beta_j$ mesure l'effet _ceteris paribus_ de $x_j$ sur $\text{E}(y|\mathbf{x})$. 
+<font color="#c0504d">Les paramètres des modèles de régression linéaire ont des interprétations simples</font> : $\beta_j$ mesure l'effet _ceteris paribus_ de $x_j$ sur $\text{E}(y|/mathbf{x})$. 
 <font color="#c0504d">Les paramètres des modèles non linéaires comme logit et probit ont une interprétation moins simple</font> 
 - puisque l'indice linéaire $\mathbf{x}\boldsymbol{\beta}$ affecte $\hat{y}$ 
 - à travers la fonction de lien $G$.
 
 <font color="#00b0f0">Une mesure utile de l'influence est l'effet partiel (ou effet marginal) </font><font color="#00b050">qui dans un graphique comme la Figure 17.1 est la pente et a la même interprétation que les paramètres dans le modèle linéaire</font>. En raison de la règle de la chaîne, c'est  
-$\frac{\partial \hat{y}}{\partial x_j} = \frac{\partial G(\hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k)}{\partial x_j} = \hat{\beta}_j \cdot g(\hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k), \tag{17.9}$ 
+$\frac{\partial \hat{y}}{\partial x_j} = \frac{\partial G(/hat{/beta}_0 + /hat{/beta}_1 x_1 + /cdots + /hat{/beta}_k x_k)}{\partial x_j} = \hat{\beta}_j \cdot g(/hat{/beta}_0 + /hat{/beta}_1 x_1 + /cdots + /hat{/beta}_k x_k), \tag{17.9}$ 
 où $g(z)$ est la dérivée de la fonction de lien $G(z)$. 
 
 <font color="#c0504d">Donc</font>
-- <font color="#00b050">pour le modèle probit, l'effet partiel est</font> $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \phi(\mathbf{x}\hat{\boldsymbol{\beta}})$
-- <font color="#00b050">pour le modèle logit, c'es</font>t $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \lambda(\mathbf{x}\hat{\boldsymbol{\beta}})$  
+- <font color="#00b050">pour le modèle probit, l'effet partiel est</font> $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \phi(/mathbf{x}/hat{/boldsymbol{/beta}})$
+- <font color="#00b050">pour le modèle logit, c'es</font>t $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \lambda(/mathbf{x}/hat{/boldsymbol{/beta}})$  
   où $\phi(z)$ et $\lambda(z)$ sont les pdf de la distribution normale standard et de la distribution logistique, respectivement.
   
 L'effet partiel dépend de la valeur de $\mathbf{x}\hat{\boldsymbol{\beta}}$. Les pdf ont la fameuse forme en cloche avec les valeurs les plus élevées au milieu et des valeurs proches de zéro dans les queues. Cela est déjà évident d'après la Figure 17.1.
@@ -233,13 +233,13 @@ _Légende : Graphique montrant l'effet partiel (pente) en fonction de x pour les
 En fonction de la valeur de $x$, la pente de la probabilité diffère. Pour notre data set simulées, la Figure 17.2 montre les effets partiels estimés pour les 100 valeurs observées de $x$. Les lecteurs intéressés peuvent voir le code complet pour cela comme Script 17.8 (Binary-Margeff.R) dans l'Annexe IV (p. 352).
 
 <font color="#c0504d">Le fait que les effets partiels diffèrent selon les valeurs des régresseurs rend plus difficile la présentation des résultats de manière concise et significative. </font><font color="#00b050">Il existe deux façons courantes d'agréger les effets partiels :</font>
-- <font color="#00b050">Effets partiels à la moyenne</font> : $EPA = \hat{\beta}_j \cdot g(\bar{\mathbf{x}}\hat{\boldsymbol{\beta}})$
-- <font color="#00b050">Effets partiels moyens</font> : $EPM = \frac{1}{n} \sum_{i=1}^{n} \hat{\beta}_j \cdot g(\mathbf{x}_i \hat{\boldsymbol{\beta}}) = \hat{\beta}_j \cdot \overline{g(\mathbf{x}\hat{\boldsymbol{\beta}})}$  
-  où $\bar{\mathbf{x}}$ est le vecteur des moyennes d'échantillon des régresseurs et $\overline{g(\mathbf{x}\hat{\boldsymbol{\beta}})}$ est la moyenne d'échantillon de $g$ évaluée à l'indice linéaire individuel $\mathbf{x}_i \hat{\boldsymbol{\beta}}$. Les deux mesures multiplient chaque coefficient $\hat{\beta}_j$ par un facteur constant.
+- <font color="#00b050">Effets partiels à la moyenne</font> : $EPA = \hat{\beta}_j \cdot g(/bar{/mathbf{x}}/hat{/boldsymbol{/beta}})$
+- <font color="#00b050">Effets partiels moyens</font> : $EPM = \frac{1}{n} \sum_{i=1}^{n} \hat{\beta}_j \cdot g(/mathbf{x}_i /hat{/boldsymbol{/beta}}) = \hat{\beta}_j \cdot \overline{g(/mathbf{x}/hat{/boldsymbol{/beta}})}$  
+  où $\bar{\mathbf{x}}$ est le vecteur des moyennes d'échantillon des régresseurs et $\overline{g(/mathbf{x}/hat{/boldsymbol{/beta}})}$ est la moyenne d'échantillon de $g$ évaluée à l'indice linéaire individuel $\mathbf{x}_i \hat{\boldsymbol{\beta}}$. Les deux mesures multiplient chaque coefficient $\hat{\beta}_j$ par un facteur constant.
 
 <font color="#00b0f0">Le Script 17.9 (Example-17-1-7.R) implémente les calculs EPM pour notre exemple de participation à la population active en utilisant des fonctions </font>$R$ déjà connues :
 1. Les indices linéaires $\mathbf{x}_i \hat{\boldsymbol{\beta}}$ sont calculés en utilisant `predict`
-2. Les facteurs $g(\mathbf{x}\hat{\boldsymbol{\beta}})$ sont calculés en utilisant les fonctions de densité `dlogis` et `dnorm` puis moyennés sur l'échantillon avec `mean`.
+2. Les facteurs $g(/mathbf{x}/hat{/boldsymbol{/beta}})$ sont calculés en utilisant les fonctions de densité `dlogis` et `dnorm` puis moyennés sur l'échantillon avec `mean`.
 3. Les EPM sont calculés en multipliant le vecteur de coefficients obtenu avec `coef` par le facteur correspondant. Notez que pour le modèle de probabilité linéaire, les effets partiels sont constants et simplement égaux aux coefficients.
 
 <font color="#00b0f0">Les résultats pour la constante n'ont pas d'interprétation significative directe.</font> <font color="#00b050">Les EPM pour les autres variables ne diffèrent pas trop entre les modèles</font>. 
@@ -295,14 +295,14 @@ Script 17.10: Example-17-1-8.R
 - Par exemple, les valeurs prédites peuvent devenir négatives.
 
 <font color="#00b050">Le modèle de régression de Poisson est le modèle le plus basique et pratique explicitement conçu pour les données de comptage.</font> La probabilité que $y$ prenne n'importe quelle valeur $h \in {0, 1, 2, \ldots}$ pour ce modèle peut être écrite comme  
-$$\text{P}(y = h|\mathbf{x}) = \frac{e^{-e^{\mathbf{x}\boldsymbol{\beta}}} \cdot e^{h \cdot \mathbf{x}\boldsymbol{\beta}}}{h!} \tag{17.11}$$
+$$\text{P}(y = h|/mathbf{x}) = \frac{e^{-e^{\mathbf{x}\boldsymbol{\beta}}} \cdot e^{h \cdot \mathbf{x}\boldsymbol{\beta}}}{h!} \tag{17.11}$$
 <font color="#00b0f0">Les paramètres du modèle de Poisson sont beaucoup plus faciles à interpréter que ceux d'un modèle probit ou logit.</font> 
-<font color="#c0504d">Dans ce modèle, l'espérance conditionnelle de  </font>$y$ est  $\text{E}(y|\mathbf{x}) = e^{\mathbf{x}\boldsymbol{\beta}}, \tag{17.12}$
+<font color="#c0504d">Dans ce modèle, l'espérance conditionnelle de  </font>$y$ est  $\text{E}(y|/mathbf{x}) = e^{\mathbf{x}\boldsymbol{\beta}}, \tag{17.12}$
 donc chaque paramètre de pente $\beta_j$ a l'interprétation d'une semi-élasticité : 
 
-$\frac{\partial \text{E}(y|\mathbf{x})}{\partial x_j} = \beta_j \cdot e^{\mathbf{x}\boldsymbol{\beta}} = \beta_j \cdot \text{E}(y|\mathbf{x}) \tag{17.13}$  $\Leftrightarrow \beta_j = \frac{1}{\text{E}(y|\mathbf{x})} \cdot \frac{\partial \text{E}(y|\mathbf{x})}{\partial x_j}. \tag{17.14}$
+$\frac{\partial \text{E}(y|/mathbf{x})}{\partial x_j} = \beta_j \cdot e^{\mathbf{x}\boldsymbol{\beta}} = \beta_j \cdot \text{E}(y|/mathbf{x}) \tag{17.13}$  $\Leftrightarrow \beta_j = \frac{1}{\text{E}(y|/mathbf{x})} \cdot \frac{\partial \text{E}(y|/mathbf{x})}{\partial x_j}. \tag{17.14}$
 
-<font color="#00b050">Si</font> $x_j$ <font color="#00b050">augmente d'une unité (et les autres régresseurs restent les mêmes),</font> $\text{E}(y|\mathbf{x})$ <font color="#00b050">augmentera approximativement de</font> $100 \cdot \beta_j$ <font color="#00b050">pour cent</font> <font color="#00b0f0">(la valeur exacte est encore une fois</font> $100 \cdot (e^{\beta_j} - 1)$).
+<font color="#00b050">Si</font> $x_j$ <font color="#00b050">augmente d'une unité (et les autres régresseurs restent les mêmes),</font> $\text{E}(y|/mathbf{x})$ <font color="#00b050">augmentera approximativement de</font> $100 \cdot \beta_j$ <font color="#00b050">pour cent</font> <font color="#00b0f0">(la valeur exacte est encore une fois</font> $100 /cdot (e^{/beta_j} - 1)$).
 
 <font color="#c0504d">Un problème avec le modèle de Poisson est qu'il est assez restrictif.</font> 
 - La distribution de Poisson restreint implicitement la variance de $y$ à être égale à sa moyenne. 
@@ -370,11 +370,11 @@ Pour lui, les hypothèses classiques du modèle de régression linéaire MLR.1--
 Wooldridge (2019, Section 17.2) montre comment dériver les propriétés et la fonction de vraisemblance pour ce modèle.
 
 <font color="#c0504d">Le problème d'interprétation des paramètres du modèle Tobit est similaire à celui de logit ou probit</font>. 
-- Alors que $\beta_j$ mesure l'effet _ceteris paribus_ de $x_j$ sur $\text{E}(y^*|\mathbf{x})$, 
+- Alors que $\beta_j$ mesure l'effet _ceteris paribus_ de $x_j$ sur $\text{E}(y^*|/mathbf{x})$, 
 - l'intérêt est plutôt typiquement pour $y$ . 
 
 <font color="#00b050">L'effet partiel d'intérêt peut être écrit comme </font> 
-  $$\frac{\partial \text{E}(y|\mathbf{x})}{\partial x_j} = \beta_j \cdot \Phi \left( \frac{\mathbf{x}\boldsymbol{\beta}}{\sigma} \right) \tag{17.15}$$
+  $$\frac{\partial \text{E}(y|/mathbf{x})}{\partial x_j} = \beta_j \cdot \Phi \left( /frac{/mathbf{x}/boldsymbol{/beta}}{/sigma} /right) \tag{17.15}$$
 <font color="#00b0f0">et dépend à nouveau des valeurs des régresseurs</font> $\mathbf{x}$. 
 P<font color="#00b050">our les agréger sur l'échantillon, nous pouvons</font>, <font color="#7030a0">comme pour les modèles à variable binaire</font>,
 - soit calculer les effets partiels à la moyenne (EPA) 
@@ -391,7 +391,7 @@ P<font color="#00b050">our les agréger sur l'échantillon, nous pouvons</font>,
 <font color="#00b0f0">Nous présenterons un exemple utilisant ce dernier</font>. 
 - La commande `censReg` peut être utilisée comme `lm` avec la formule du modèle et l'option data. 
 - Elle estimera le modèle Tobit standard discuté ici. 
-<font color="#c00000">D'autres Solutions de Corner</font> ($y \ge a$ ou $y \le b$) <font color="#c00000">peuvent être spécifiées en utilisant les options</font> `left` et `right`. 
+<font color="#c00000">D'autres Solutions de Corner</font> ($y /ge a$ ou $y /le b$) <font color="#c00000">peuvent être spécifiées en utilisant les options</font> `left` et `right`. 
 Après avoir stocké les résultats de `censReg` dans une variable res, l'EPA peut facilement être calculé avec `margEff(res)`.
 
 ### Wooldridge, Exemple 17.2 : Offre Annuelle de W des Femmes Mariées (Married Women's Annual Labor Supply)
@@ -442,7 +442,7 @@ La principale différence entre Tobit et les modèles de régression censurée e
 - Dans le premier cas, nous nous intéressons au $y$ observé (les y* ⩽ 0 n'existent pas ou ne nous intéressent pas) 
 - dans le second cas, nous nous intéressons au $y^*$ sous-jacent.$^1$  <font color="#00b0f0">La censure est simplement un problème de données qui doit être pris en compte</font> au lieu d'une caractéristique logique de la variable dépendante. 
 
-<font color="#c0504d">Pour estimer une régression censurée, nous pouvons utiliser les mêmes outils que pour les modèles Tobit.</font>  <font color="#00b050">Le problème du calcul des effets partiels n'existe pas </font>dans ce cas puisque nous nous intéressons à l'espérance linéaire $\text{E}(y^*|\mathbf{x})$ et <font color="#00b0f0">les paramètres de pente sont directement égaux aux effets partiels d'intérêt.</font>
+<font color="#c0504d">Pour estimer une régression censurée, nous pouvons utiliser les mêmes outils que pour les modèles Tobit.</font>  <font color="#00b050">Le problème du calcul des effets partiels n'existe pas </font>dans ce cas puisque nous nous intéressons à l'espérance linéaire $\text{E}(y^*|/mathbf{x})$ et <font color="#00b0f0">les paramètres de pente sont directement égaux aux effets partiels d'intérêt.</font>
 
 note11 Wooldridge (2019, Section 7.4) utilise la notation $w$ au lieu de $y$ et $y$ au lieu de $y^*$ .
 
@@ -461,7 +461,7 @@ Durant cette période, 893 détenus n'ont pas été arrêtés à nouveau.
 - Nous générons une variable muette uncensored dans le data frame basée sur la variable existante cens qui représente la censure.
 Les paramètres peuvent être interprétés directement. 
 - En raison de la spécification logarithmique, ils représentent des semi-élasticités. 
-- Par exemple, les individus mariés prennent environ  $100.\hat\beta \approx34$ % plus de temps pour être à nouveau arrêtés. (En fait, le nombre précis est $100 \cdot (e^{\hat{\beta}} - 1) \approx 40$%.) 
+- Par exemple, les individus mariés prennent environ  $100.\hat\beta \approx34$ % plus de temps pour être à nouveau arrêtés. (En fait, le nombre précis est $100 /cdot (e^{/hat{/beta}} - 1) \approx 40$%.) 
 - Il n'y a pas d'effet significatif du programme de travail.
 
 ```
@@ -537,4 +537,5 @@ Script 17.18: Example-17-5.R
  # Résumé des résultats :
  summary(res)
 ```
+
 

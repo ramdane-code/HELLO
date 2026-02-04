@@ -231,12 +231,12 @@ table(pvals<=0.05)
 # Prévision
  Un objectif majeur de l'analyse des séries temporelles est la `prévision`. 
  - Étant donné les informations dont nous disposons aujourd'hui, nous voulons donner notre meilleure estimation de l'avenir et quantifier notre incertitude. 
- - Étant donné un modèle de série temporelle pour $y$, la meilleure estimation pour $y_{t+1}$ compte tenu de l'information $I_t$ est l'espérance conditionnelle de $E(y_{t+1} \mid I_t)$. 
+ - Étant donné un modèle de série temporelle pour $y$, la meilleure estimation pour $y_{t+1}$ compte tenu de l'information $I_t$ est l'espérance conditionnelle de $E(y_{t+1} /mid I_t)$. 
  
  Pour un modèle comme  $y_t = \delta_0 + \alpha_1 y_{t-1} + \gamma_1 z_{t-1} + u_t, \tag{18.5}$
 - supposons que nous soyons à la période $t$ et connaissions à la fois $y_t$ et $z_t$, et que nous voulions prédire $y_{t+1}$.
-- Supposons également que $E(u_t \mid I_{t-1}) = 0$. 
-Alors, $E(y_{t+1} \mid I_t) = \delta_0 + \alpha_1 y_t + \gamma_1 z_t \tag{18.6}$ , et notre prédiction à partir d'un modèle estimé serait $\hat y_{t+1} = \hat \delta_0 + \hat \alpha_1 y_t + \hat \gamma_1 z_t$.
+- Supposons également que $E(u_t /mid I_{t-1}) = 0$. 
+Alors, $E(y_{t+1} /mid I_t) = \delta_0 + \alpha_1 y_t + \gamma_1 z_t \tag{18.6}$ , et notre prédiction à partir d'un modèle estimé serait $\hat y_{t+1} = \hat \delta_0 + \hat \alpha_1 y_t + \hat \gamma_1 z_t$.
 
  <font color="#00b050">Nous savons déjà comment obtenir des prédictions </font><font color="#c0504d">dans l'échantillon</font> et <font color="#00b050">(hypothétiques) hors échantillon</font>, <font color="#7030a0">y compris des intervalles de prévision</font>,<font color="#00b0f0"> à partir de modèles linéaires en utilisant la commande</font> **predict**. 
  Elle peut également être utilisée pour nos besoins.
@@ -316,4 +316,5 @@ mean(abs(e2))
 
  
  **Figure 18.2.** Out-of-sample forecasts for unemployment
+
 

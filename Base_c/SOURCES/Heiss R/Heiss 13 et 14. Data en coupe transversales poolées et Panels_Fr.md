@@ -42,7 +42,7 @@ Estimer la variation temporelle du  Rendement de l'Éducation et de l'Écart Sal
 (sachant qu'il existe une col."year" qui indique si une obs relève de 78 ou 85)
 
 Nous estimons un modèle pour le logarithme du salaire lwage de la forme
-$lwage = \beta_0 + \delta_0 y85 + \beta_1 educ + \delta_1 (y85 \cdot educ) + \beta_2 exper + \beta_3 exper^2 + \beta_4 union + \beta_5 female + \delta_5(y85 \cdot female) + u$
+$lwage = \beta_0 + \delta_0 y85 + \beta_1 educ + \delta_1 (y85 /cdot educ) + \beta_2 exper + \beta_3 exper^2 + \beta_4 union + \beta_5 female + \delta_5(y85 /cdot female) + u$
 Notez que nous divisons $exper^2$ par 100 et donc multiplions $\beta_3$ par 100 par rapport aux résultats rapportés dans Wooldridge (2019).  
 
 <font color="#00b0f0">Le paramètre</font> $\beta_1$ <font color="#00b0f0">mesure le rendement de l'éducation en 1978</font> <font color="#00b0f0">et</font> $\delta_1$ <font color="#00b050">mesure la différence du rendement de l'éducation en 1985 par rapport à 1978.  </font> : rendement 85 = $β_1+δ_1$
@@ -50,7 +50,7 @@ De même, $\beta_5$ est l'écart salarial entre les sexes en 1978 et $\delta_5$ 
 
 <font color="#00b050">Conclusions  du Script 13.1 (Example-13-2.R) qui estime le modèle :</font>
 - Le rendement de l'éducation est estimé avoir augmenté de $\hat{\delta}_1 = 0.018$ 
-- et l'écart salarial entre les sexes a diminué en valeur absolue de $\hat{\beta}_5 (ici,\,female) = 0.317$ à $\hat{\beta}_5 + \hat{\delta}_5 (ici,\,y85:female) = 0.232$, même si ce changement n'est que marginalement significatif (y85:female évalué à ".") 
+- et l'écart salarial entre les sexes a diminué en valeur absolue de $\hat{\beta}_5 (ici,/,female) = 0.317$ à $\hat{\beta}_5 + \hat{\delta}_5 (ici,/,y85:female) = 0.232$, même si ce changement n'est que marginalement significatif (y85:female évalué à ".") 
 <font color="#7030a0">Cf. la Section 6.1.6. qui détaille l'interprétation et la mise en œuvre des interactions </font> 
 
 ### <font color="#c00000">Script 13.1 : Estimer pooling data : charger data, reg lm, termes d'interaction, summary</font>
@@ -80,7 +80,7 @@ y85:female              0.085052   0.051309   1.658   0.0977 .
 Modèle de régression sur échantillon combiné (*pooled*) de 2 années : 1978 et 1985, avec `y85 = 1` si l’observation vient de 1985, `y85 = 0` si elle vient de 1978.
 La variable dépendante est `lwage` (log du salaire).
 **Le modèle est de la forme :**$lwage = \beta_0 + \beta_1 y85 + \beta_2 educ + \beta_3 female + \beta_4 exper + \beta_5 \frac{exper^2}{100}$
-                             $+ \beta_6 union + \beta_7 (y85 \times educ) + \beta_8 (y85 \times female) + u$ 
+                             $+ \beta_6 union + \beta_7 (y85 /times educ) + \beta_8 (y85 /times female) + u$ 
 **Il inclut** :
 - `educ` (années d’éducation)
 - `female` (=1 si femme)
@@ -244,7 +244,7 @@ Supposons que nous ayons <font color="#7030a0">nos données dans un data frame s
 
 	`mypdf <- pdata.frame( mydf, index=c("ivar","tvar") )`
 
-<font color="#00b0f0">Si nous avons un panel équilibré </font>(même nombre d'observations $T$ pour chaque "individu" $i = 1, \ldots, n$) <font color="#00b0f0">et que les observations sont d'abord triées par i puis par t,</font> nous pouvons alternativement appeler  
+<font color="#00b0f0">Si nous avons un panel équilibré </font>(même nombre d'observations $T$ pour chaque "individu" $i = 1, /ldots, n$) <font color="#00b0f0">et que les observations sont d'abord triées par i puis par t,</font> nous pouvons alternativement appeler  
 `mypdf <- pdata.frame( mydf, index=n )`
 <font color="#c0504d">Dans ce cas, les nouvelles variables id et time sont générées comme variables d'index.</font>
 
@@ -507,9 +507,9 @@ En résumé, **`factor(year)`** permet une modélisation flexible des effets t
 We again base our analysis on the basic unobserved effects model in Equation [13.2]. 
 <font color="#00b0f0">The random effects (RE) model assumes that the unobserved effects</font> $a_i$ <font color="#00b0f0">are independent of (or at least uncorrelated with) the regressors </font>$x_{itj}$ <font color="#00b0f0">for all </font>$t$ <font color="#00b0f0">and</font> $j = 1, \ldots, k$. 
 <font color="#c00000">Therefore, our main motivation for using FD (first difference) or FE (fixed effects) disappears</font>: <font color="#00b050">Sous cette hyp supplémentaires, MCO estiment de manière cohérente les paramètres du modèle.</font>
-### <font color="#c0504d">La transfo GLS conduit à spécification quasi demeaned ( ne soustrait des var qu'une fraction $\theta$ de la moyenne)</font>
+### <font color="#c0504d">La transfo GLS conduit à spécification quasi demeaned ( ne soustrait des var qu'une fraction $/theta$ de la moyenne)</font>
 However, like the situation with heteroscedasticity (see Section 8.3) and autocorrelation (see Section 12.2),<font color="#00b0f0"> we can obtain more efficient estimates if we take into account the structure of the variances and covariances of the error term.</font> Wooldridge (2019, Section 14.2) shows that <font color="#c0504d">the GLS transformation that takes care of their special structure implied by the RE model leads to a <u>quasi-demeaned specification</u></font>
- $$y_{it}^\circ = y_{it} - \theta \bar{y}_i = \beta_0 (1 - \theta) + \beta_1 x_{it1}^\circ + \cdots + \beta_k x_{itk}^\circ + v_{it}^\circ, \tag{14.2}$$
+ $$y_{it}^\circ = y_{it} - \theta \bar{y}_i = \beta_0 (1 - /theta) + \beta_1 x_{it1}^\circ + \cdots + \beta_k x_{itk}^\circ + v_{it}^\circ, \tag{14.2}$$
 <font color="#00b0f0">where</font> $y_{it}^\circ$ <font color="#00b0f0">is similar to the demeaned</font> $\ddot{y}_{it}$ <font color="#00b0f0">from Equation</font> [14.1]<font color="#00b050"> but subtracts only a fraction</font> $\theta$ <font color="#00b050">of the individual averages</font>. <font color="#c00000">The same holds for the regressors </font>$x_{itj}$ <font color="#c00000">and the composite error term</font> $v_{it} = a_i + u_{it}$.
 
 <font color="#7030a0">The parameter</font> $\theta = 1 - \sqrt{\frac{\sigma_u^2}{\sigma_u^2 + T \sigma_a^2}}$ <font color="#7030a0">depends on the variances of </font>$u_{it}$ <font color="#7030a0">and</font> $a_i$ <font color="#7030a0">and the length of the time series dimension </font>$T$. 
@@ -763,4 +763,5 @@ Script 14.9: Example-13-9-ClSE.R
  # This is the default version used by Stata and reported by Wooldridge:
  coeftest(reg, vcovHC(reg, type="sss"))
 ```
+
 

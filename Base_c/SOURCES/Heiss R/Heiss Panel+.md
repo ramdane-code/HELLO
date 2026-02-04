@@ -23,7 +23,7 @@
  The dummy variable y85 is equal to one for observations in 1985 and to zero for 1978.
  We estimate a model for the log wage lwage of the form
 
- $lwage = \beta_0 + \delta_0 y85 + \beta_1 educ + \delta_1 (y85 \cdot educ) + \beta_2 exper + \beta_3 exper^2 + \beta_4 union + \beta_5 female + \delta_5(y85 \cdot female) + u$
+ $lwage = \beta_0 + \delta_0 y85 + \beta_1 educ + \delta_1 (y85 /cdot educ) + \beta_2 exper + \beta_3 exper^2 + \beta_4 union + \beta_5 female + \delta_5(y85 /cdot female) + u$
 
  Note that we divide $exper^2$ by 100 and thereby multiply $\beta_3$ by 100 compared to the results reported in Wooldridge (2019).
  The parameter $\beta_1$ measures the return to education in 1978 and $\delta_1$ is the *difference* of the return to education in 1985 relative to 1978.
@@ -92,7 +92,7 @@ stargazer(DiD,DiDcontr,type="text")
  The package ***plm*** (for panel linear models) is a comprehensive collection of commands dealing with panel data. Similar to specific data types for time series, it offers a data type named `pdata.frame`. It essentially corresponds to a standard `data.frame` but has additional attributes that describe the individual and time dimensions. Suppose we have our data in a standard data frame named mydf. It includes a variable ivar indicating the cross-sectional units and a variable tvar indicating the time. Then we can create a panel data frame with the command
  `mypdf <- pdata.frame( mydf, index=c("ivar","tvar") )`
 
- If we have a balanced panel (i.e. the same number of observations $T$ for each "individual" $i = 1, \ldots, n$) and the observations are first sorted by $i$ and then by $t$, we can alternatively call
+ If we have a balanced panel (i.e. the same number of observations $T$ for each "individual" $i = 1, /ldots, n$) and the observations are first sorted by $i$ and then by $t$, we can alternatively call
  `mypdf <- pdata.frame( mydf, index=n )`
 
  In this case, the new variables id and time are generated as the index variables.
@@ -256,7 +256,7 @@ Script 14.1: Example-14-2.R
 We again base our analysis on the basic unobserved effects model in Equation [13.2]. The random effects (RE) model assumes that the unobserved effects $a_i$ are independent of (or at least uncorrelated with) the regressors $x_{itj}$ for all $t$ and $j = 1, \ldots, k$. Therefore, our main motivation for using FD or FE disappears: OLS consistently estimates the model parameters under this additional assumption.
 
 However, like the situation with heteroscedasticity (see Section 8.3) and autocorrelation (see Section 12.2), we can obtain more efficient estimates if we take into account the structure of the variances and covariances of the error term. Wooldridge (2019, Section 14.2) shows that the GLS transformation that takes care of their special structure implied by the RE model leads to a quasi-demeaned specification
- $$y_{it}^\circ = y_{it} - \theta \bar{y}_i = \beta_0 (1 - \theta) + \beta_1 x_{it1}^\circ + \cdots + \beta_k x_{itk}^\circ + v_{it}^\circ, \tag{14.2}$$
+ $$y_{it}^\circ = y_{it} - \theta \bar{y}_i = \beta_0 (1 - /theta) + \beta_1 x_{it1}^\circ + \cdots + \beta_k x_{itk}^\circ + v_{it}^\circ, \tag{14.2}$$
 where $y_{it}^\circ$ is similar to the demeaned $\ddot{y}_{it}$ from Equation [14.1] but subtracts only a fraction $\theta$ of the individual averages. The same holds for the regressors $x_{itj}$ and the composite error term $v_{it} = a_i + u_{it}$.
 
 The parameter $\theta = 1 - \sqrt{\frac{\sigma_u^2}{\sigma_u^2 + T \sigma_a^2}}$ depends on the variances of $u_{it}$ and $a_i$ and the length of the time series dimension $T$. It is unknown and has to be estimated. Given our experience with FD and FE estimation, it should not come as a surprise that we can estimate the RE model parameters using the command `plm` with the option `model="random"`. Different versions of estimating the random effects parameter $\theta$ are implemented and can be chosen with the option `random.method`, see Croissant and Millo (2008) for details.
@@ -627,14 +627,14 @@ y_2 &= \alpha_{21} y_1 + \alpha_{23} y_3 + \cdots + \alpha_{2q} y_q + \beta_{20}
 y_q &= \alpha_{q1} y_1 + \alpha_{q2} y_2 + \cdots + \alpha_{q,q-1} y_{q-1} + \beta_{q0} + \beta_{q1} x_1 + \cdots + \beta_{qk} x_k + u_q
 \end{aligned}$$
 
- As discussed in more detail in Wooldridge (2019, Section 16), this system is not identified without restrictions on the parameters. The order condition for identification of any equation is that if we have $m$ included endogenous regressors (i.e. $\alpha$ parameters that are not restricted to 0), we need to exclude at least $m$ exogenous regressors (i.e. restrict their $\beta$ parameters to 0). They can then be used as instrumental variables.
+ As discussed in more detail in Wooldridge (2019, Section 16), this system is not identified without restrictions on the parameters. The order condition for identification of any equation is that if we have $m$ included endogenous regressors (i.e. $/alpha$ parameters that are not restricted to 0), we need to exclude at least $m$ exogenous regressors (i.e. restrict their $/beta$ parameters to 0). They can then be used as instrumental variables.
 
 ### Wooldridge, Example 16.3: Labor Supply of Married, Working Women16.3
 
  We have the two endogenous variables hours and wage which influence each other.
  $$\begin{aligned}
-\text{hours} &= \alpha_{12} \log(\text{wage}) + \beta_{10} + \beta_{11} \text{educ} + \beta_{12} \text{age} + \beta_{13} \text{kidslt6} + \beta_{14} \text{nwifeinc} + \beta_{15} \text{exper} + \beta_{16} \text{exper}^2 + u_1 \\
-\log(\text{wage}) &= \alpha_{21} \text{hours} + \beta_{20} + \beta_{21} \text{educ} + \beta_{22} \text{age} + \beta_{23} \text{kidslt6} + \beta_{24} \text{nwifeinc} + \beta_{25} \text{exper} + \beta_{26} \text{exper}^2 + u_2
+\text{hours} &= \alpha_{12} \log(/text{wage}) + \beta_{10} + \beta_{11} \text{educ} + \beta_{12} \text{age} + \beta_{13} \text{kidslt6} + \beta_{14} \text{nwifeinc} + \beta_{15} \text{exper} + \beta_{16} \text{exper}^2 + u_1 \\
+\log(/text{wage}) &= \alpha_{21} \text{hours} + \beta_{20} + \beta_{21} \text{educ} + \beta_{22} \text{age} + \beta_{23} \text{kidslt6} + \beta_{24} \text{nwifeinc} + \beta_{25} \text{exper} + \beta_{26} \text{exper}^2 + u_2
 \end{aligned}$$
 
  For both equations to be identified, we have to exclude at least one exogenous regressor from each equation. Wooldridge (2019) discusses a model in which we restrict $\beta_{15} = \beta_{16} = 0$ in the first and $\beta_{22} = \beta_{23} = \beta_{24} = 0$ in the second equation.
@@ -705,7 +705,7 @@ Script 16.4: Example-16-5-3sls.R
 ## 17.1 Binary Responses
 
  Binary dependent variables are frequently studied in applied econometrics. Because a dummy variable $y$ can only take the values 0 and 1, its (conditional) expected value is equal to the (conditional) probability that $y = 1$:
- $$\text{E}(y|\mathbf{x}) = 0 \cdot \text{P}(y = 0|\mathbf{x}) + 1 \cdot \text{P}(y = 1|\mathbf{x}) = \text{P}(y = 1|\mathbf{x}) \tag{17.1}$$
+ $$\text{E}(y|/mathbf{x}) = 0 \cdot \text{P}(y = 0|/mathbf{x}) + 1 \cdot \text{P}(y = 1|/mathbf{x}) = \text{P}(y = 1|/mathbf{x}) \tag{17.1}$$
  So when we study the conditional mean, it makes sense to think about it as the probability of outcome $y = 1$. Likewise, the predicted value $\hat{y}$ should be thought of as a predicted probability.
 
 ### 17.1.1. Linear Probability Models
@@ -714,9 +714,9 @@ Script 16.4: Example-16-5-3sls.R
 
  If we write the usual linear regression model
  $$y = \beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k + u \tag{17.2}$$
- and make the usual assumptions, especially MLR.4: $\text{E}(u | \mathbf{x}) = 0$, this implies for the conditional mean (which is the probability that $y = 1$) and the predicted probabilities
- $$\text{P}(y = 1|\mathbf{x}) = \text{E}(y|\mathbf{x}) = \beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k \tag{17.3}$$
- $$\hat{\text{P}} (y = 1|\mathbf{x}) = \hat{y} = \hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k \tag{17.4}$$
+ and make the usual assumptions, especially MLR.4: $\text{E}(u | /mathbf{x}) = 0$, this implies for the conditional mean (which is the probability that $y = 1$) and the predicted probabilities
+ $$\text{P}(y = 1|/mathbf{x}) = \text{E}(y|/mathbf{x}) = \beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k \tag{17.3}$$
+ $$\hat{\text{P}} (y = 1|/mathbf{x}) = \hat{y} = \hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k \tag{17.4}$$
 
  The interpretation of the parameters is straightforward: $\beta_j$ is a measure of the average change in probability of a "success" ($y = 1$) as $x_j$ increases by one unit and the other determinants remain constant. Linear probability models automatically suffer from heteroscedasticity, so with OLS, we should use heteroscedasticity-robust inference, see Section 8.1.
 
@@ -734,7 +734,7 @@ Script 17.1: Example-17-1-1.R
  coeftest(linprob,vcov=hccm)
 ```
 
- One problem with linear probability models is that $\text{P}(y = 1 | \mathbf{x})$ is specified as a linear function of the regressors. By construction, there are (more or less realistic) combinations of regressor values that yield $\hat{y} < 0$ or $\hat{y}  1$. Since these are probabilities, this does not really make sense.
+ One problem with linear probability models is that $\text{P}(y = 1 | /mathbf{x})$ is specified as a linear function of the regressors. By construction, there are (more or less realistic) combinations of regressor values that yield $\hat{y} < 0$ or $\hat{y}  1$. Since these are probabilities, this does not really make sense.
 
  As an example, Script 17.2 (Example-17-1-2.R) calculates the predicted values for two women (see Section 6.2 for how to `predict` after OLS estimation): Woman 1 is 20 years old, has no work experience, 5 years of education, two children below age 6 and has additional family income of 100,000 USD. Woman 2 is 52 years old, has 30 years of work experience, 17 years of education, no children and no other source of income. The predicted "probability" for woman 1 is -41%, the probability for woman 2 is 104% as can also be easily checked with a calculator.
 
@@ -751,7 +751,7 @@ Script 17.2: Example-17-1-2.R
 ### 17.1.2. Logit and Probit Models: Estimation
 
  Specialized models for binary responses make sure that the implied probabilities are restricted between 0 and 1. An important class of models specifies the success probability as
- $$\text{P}(y = 1|\mathbf{x}) = G(\beta_0 + \beta_1 x_1 + \cdots + \beta_k x_k) = G(\mathbf{x}\boldsymbol{\beta}) \tag{17.5}$$
+ $$\text{P}(y = 1|/mathbf{x}) = G(/beta_0 + /beta_1 x_1 + /cdots + /beta_k x_k) = G(/mathbf{x}/boldsymbol{/beta}) \tag{17.5}$$
  where the "link function" $G(z)$ always returns values between 0 and 1. In the statistics literature, this type of models is often called generalized linear model (GLM) because a linear part $\mathbf{x}\boldsymbol{\beta}$ shows up within the nonlinear function $G$.
 
  For binary response models, by far the most widely used specifications for $G$ are
@@ -762,12 +762,12 @@ Script 17.2: Example-17-1-2.R
  *   `family=binomial(link=logit)` for the logit model or
  *   `family=binomial(link=probit)` for the probit model.
 
- Maximum likelihood estimation (MLE) of the parameters is done automatically and the `summary` of the results contains the most important regression table and additional information. Scripts 17.3 (Example-17-1-3.R) and 17.4 (Example-17-1-4.R) implement this for the logit and probit model, respectively. The log likelihood value $L(\hat{\boldsymbol{\beta}})$ is not reported by default but can be requested with the function `logLik`. Instead, a statistic called Residual deviance is reported in the standard output. It is simply defined as $D(\hat{\boldsymbol{\beta}}) = -2L(\hat{\boldsymbol{\beta}})$. Null deviance means $D_0 = -2L_0$ where $L_0$ is the likelihood of a model with an intercept only.
+ Maximum likelihood estimation (MLE) of the parameters is done automatically and the `summary` of the results contains the most important regression table and additional information. Scripts 17.3 (Example-17-1-3.R) and 17.4 (Example-17-1-4.R) implement this for the logit and probit model, respectively. The log likelihood value $L(/hat{/boldsymbol{/beta}})$ is not reported by default but can be requested with the function `logLik`. Instead, a statistic called Residual deviance is reported in the standard output. It is simply defined as $D(/hat{/boldsymbol{/beta}}) = -2L(/hat{/boldsymbol{/beta}})$. Null deviance means $D_0 = -2L_0$ where $L_0$ is the likelihood of a model with an intercept only.
 
  The two deviance statistics can be accessed for additional calculations from a stored result res with `res$deviance` and `res$null.deviance`. Scripts 17.3 (Example-17-1-3.R) and 17.4 (Example-17-1-4.R) demonstrate the calculation of different statistics derived from these results.
 
  McFadden's pseudo R-squared can be calculated as
- $$\text{pseudo } R^2 = 1 - \frac{L(\hat{\boldsymbol{\beta}})}{L_0} = 1 - \frac{D(\hat{\boldsymbol{\beta}})}{D_0}. \tag{17.6}$$
+ $$\text{pseudo } R^2 = 1 - \frac{L(/hat{/boldsymbol{/beta}})}{L_0} = 1 - \frac{D(/hat{/boldsymbol{/beta}})}{D_0}. \tag{17.6}$$
 
 ```
 Script 17.3: Example-17-1-3.R
@@ -812,7 +812,7 @@ Script 17.4: Example-17-1-4.R
  For testing multiple hypotheses similar to the $F$ test (see Section 4.3), the likelihood ratio test is popular. It is based on comparing the log likelihood values of the unrestricted and the restricted model. The test statistic is
  $$LR = 2(L_{ur} - L_r) = D_r - D_{ur} \tag{17.7}$$
  where $L_{ur}$ and $L_r$ are the log likelihood values of the unrestricted and restricted model, respectively, and $D_{ur}$ and $D_r$ are the corresponding reported deviance statistics. Under $H_0$, the $LR$ test statistic is asymptotically distributed as $\chi^2$ with the degrees of freedom equal to the number of restrictions to be tested. The test of overall significance is a special case just like with $F$-tests. The null hypothesis is that all parameters except the constant are equal to zero. With the notation above, the test statistic is
- $$LR = 2\left[ L(\hat{\boldsymbol{\beta}}) - L_0 \right] = D_0 - D(\hat{\boldsymbol{\beta}}). \tag{17.8}$$
+ $$LR = 2\left[ L(/hat{/boldsymbol{/beta}}) - L_0 \right] = D_0 - D(/hat{/boldsymbol{/beta}}). \tag{17.8}$$
 
  Translated to $R$ with fitted model results stored in res, this corresponds to
  `LR = res$null.deviance - res$deviance`
@@ -847,8 +847,8 @@ Script 17.5: Example-17-1-5.R
  The command `predict` can calculate predicted values for the estimation sample ("fitted values") or arbitrary sets of regressor values also for binary response models estimated with `glm`. Given the results are stored in variable res, we can calculate
  *   $\mathbf{x}_i \hat{\boldsymbol{\beta}}$ for the estimation sample with `predict(res)`
  *   $\mathbf{x}_i \hat{\boldsymbol{\beta}}$ for the regressor values stored in xpred with `predict(res, xpred)`
- *   $\hat{y} = G(\mathbf{x}_i \hat{\boldsymbol{\beta}})$ for the estimation sample with `predict(res, type = "response")`
- *   $\hat{y} = G(\mathbf{x}_i \hat{\boldsymbol{\beta}})$ for the regressor values stored in xpred with `predict(res, xpred, type = "response")`
+ *   $\hat{y} = G(/mathbf{x}_i /hat{/boldsymbol{/beta}})$ for the estimation sample with `predict(res, type = "response")`
+ *   $\hat{y} = G(/mathbf{x}_i /hat{/boldsymbol{/beta}})$ for the regressor values stored in xpred with `predict(res, xpred, type = "response")`
 
  The predictions for the two hypothetical women introduced in Section [17.1.1](#linear-probability-models) are repeated for the linear probability, logit, and probit models in Script 17.6 (Example-17-1-6.R). Unlike the linear probability model, the predicted probabilities from the logit and probit models remain between 0 and 1.
 
@@ -871,13 +871,13 @@ Script 17.6: Example-17-1-6.R
 
 ### 17.1.5. Partial Effects
 
- The parameters of linear regression models have straightforward interpretations: $\beta_j$ measures the *ceteris paribus* effect of $x_j$ on $\text{E}(y|\mathbf{x})$. The parameters of nonlinear models like logit and probit have a less straightforward interpretation since the linear index $\mathbf{x}\boldsymbol{\beta}$ affects $\hat{y}$ through the link function $G$.
+ The parameters of linear regression models have straightforward interpretations: $\beta_j$ measures the *ceteris paribus* effect of $x_j$ on $\text{E}(y|/mathbf{x})$. The parameters of nonlinear models like logit and probit have a less straightforward interpretation since the linear index $\mathbf{x}\boldsymbol{\beta}$ affects $\hat{y}$ through the link function $G$.
 
  A useful measure of the influence is the partial effect (or marginal effect) which in a graph like Figure [17.1](#_bookmark29) is the slope and has the same interpretation as the parameters in the linear model. Because of the chain rule, it is
- $$\frac{\partial \hat{y}}{\partial x_j} = \frac{\partial G(\hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k)}{\partial x_j} = \hat{\beta}_j \cdot g(\hat{\beta}_0 + \hat{\beta}_1 x_1 + \cdots + \hat{\beta}_k x_k), \tag{17.9}$$
+ $$\frac{\partial \hat{y}}{\partial x_j} = \frac{\partial G(/hat{/beta}_0 + /hat{/beta}_1 x_1 + /cdots + /hat{/beta}_k x_k)}{\partial x_j} = \hat{\beta}_j \cdot g(/hat{/beta}_0 + /hat{/beta}_1 x_1 + /cdots + /hat{/beta}_k x_k), \tag{17.9}$$
  where $g(z)$ is the derivative of the link function $G(z)$. So
- *   for the probit model, the partial effect is $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \phi(\mathbf{x}\hat{\boldsymbol{\beta}})$
- *   for the logit model, it is $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \lambda(\mathbf{x}\hat{\boldsymbol{\beta}})$
+ *   for the probit model, the partial effect is $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \phi(/mathbf{x}/hat{/boldsymbol{/beta}})$
+ *   for the logit model, it is $\frac{\partial \hat{y}}{\partial x_j} = \hat{\beta}_j \cdot \lambda(/mathbf{x}/hat{/boldsymbol{/beta}})$
  where $\phi(z)$ and $\lambda(z)$ are the pdfs of the standard normal and the logistic distribution, respectively.
 
  The partial effect depends on the value of $\mathbf{x}\hat{\boldsymbol{\beta}}$. The pdfs have the famous bell-shape with highest values in the middle and values close to zero in the tails. This is already obvious from Figure [17.1.](#_bookmark29)
@@ -888,13 +888,13 @@ Script 17.6: Example-17-1-6.R
  Depending on the value of $x$, the slope of the probability differs. For our simulated data set, Figure [17.2](#_bookmark30) shows the estimated partial effects for all 100 observed $x$ values. Interested readers can see the complete code for this as Script 17.8 (Binary-Margeff.R) in Appendix IV (p. 352).
 
  The fact that the partial effects differ by regressor values makes it harder to present the results in a concise and meaningful way. There are two common ways to aggregate the partial effects:
- *   Partial effects at the average: $PEA = \hat{\beta}_j \cdot g(\bar{\mathbf{x}}\hat{\boldsymbol{\beta}})$
- *   Average partial effects: $APE = \frac{1}{n} \sum_{i=1}^{n} \hat{\beta}_j \cdot g(\mathbf{x}_i \hat{\boldsymbol{\beta}}) = \hat{\beta}_j \cdot \overline{g(\mathbf{x}\hat{\boldsymbol{\beta}})}$
- where $\bar{\mathbf{x}}$ is the vector of sample averages of the regressors and $\overline{g(\mathbf{x}\hat{\boldsymbol{\beta}})}$ is the sample average of $g$ evaluated at the individual linear index $\mathbf{x}_i \hat{\boldsymbol{\beta}}$. Both measures multiply each coefficient $\hat{\beta}_j$ with a constant factor.
+ *   Partial effects at the average: $PEA = \hat{\beta}_j \cdot g(/bar{/mathbf{x}}/hat{/boldsymbol{/beta}})$
+ *   Average partial effects: $APE = \frac{1}{n} \sum_{i=1}^{n} \hat{\beta}_j \cdot g(/mathbf{x}_i /hat{/boldsymbol{/beta}}) = \hat{\beta}_j \cdot \overline{g(/mathbf{x}/hat{/boldsymbol{/beta}})}$
+ where $\bar{\mathbf{x}}$ is the vector of sample averages of the regressors and $\overline{g(/mathbf{x}/hat{/boldsymbol{/beta}})}$ is the sample average of $g$ evaluated at the individual linear index $\mathbf{x}_i \hat{\boldsymbol{\beta}}$. Both measures multiply each coefficient $\hat{\beta}_j$ with a constant factor.
 
  Script 17.9 (Example-17-1-7.R) implements the APE calculations for our labor force participation example using already known $R$ functions:
  1.  The linear indices $\mathbf{x}_i \hat{\boldsymbol{\beta}}$ are calculated using `predict`
- 2.  The factors $g(\mathbf{x}\hat{\boldsymbol{\beta}})$ are calculated by using the pdf functions `dlogis` and `dnorm` and then averaging over the sample with `mean`.
+ 2.  The factors $g(/mathbf{x}/hat{/boldsymbol{/beta}})$ are calculated by using the pdf functions `dlogis` and `dnorm` and then averaging over the sample with `mean`.
  3.  The APEs are calculated by multiplying the coefficient vector obtained with `coef` with the corresponding factor. Note that for the linear probability model, the partial effects are constant and simply equal to the coefficients.
 
  The results for the constant do not have a direct meaningful interpretation. The APEs for the other variables don't differ too much between the models. As a general observation, as long as we are interested in APEs only and not in individual predictions or partial effects and as long as not too many probabilities are close to 0 or 1, the linear probability model often works well enough.
@@ -936,15 +936,15 @@ Script 17.10: Example-17-1-8.R
  Instead of just 0/1-coded binary data, count data can take any non-negative integer 0,1,2,. . . If they take very large numbers (like the number of students in a school), they can be approximated reasonably well as continuous variables in linear models and estimated using OLS. If the numbers are relatively small (like the number of children of a mother), this approximation might not work well. For example, predicted values can become negative.
 
  The Poisson regression model is the most basic and convenient model explicitly designed for count data. The probability that $y$ takes any value $h \in \{0, 1, 2, \ldots\}$ for this model can be written as
- $$\text{P}(y = h|\mathbf{x}) = \frac{e^{-e^{\mathbf{x}\boldsymbol{\beta}}} \cdot e^{h \cdot \mathbf{x}\boldsymbol{\beta}}}{h!} \tag{17.11}$$
+ $$\text{P}(y = h|/mathbf{x}) = \frac{e^{-e^{\mathbf{x}\boldsymbol{\beta}}} \cdot e^{h \cdot \mathbf{x}\boldsymbol{\beta}}}{h!} \tag{17.11}$$
 
  The parameters of the Poisson model are much easier to interpret than those of a probit or logit model. In this model, the conditional mean of $y$ is
- $$\text{E}(y|\mathbf{x}) = e^{\mathbf{x}\boldsymbol{\beta}}, \tag{17.12}$$
+ $$\text{E}(y|/mathbf{x}) = e^{\mathbf{x}\boldsymbol{\beta}}, \tag{17.12}$$
  so each slope parameter $\beta_j$ has the interpretation of a semi elasticity:
- $$\frac{\partial \text{E}(y|\mathbf{x})}{\partial x_j} = \beta_j \cdot e^{\mathbf{x}\boldsymbol{\beta}} = \beta_j \cdot \text{E}(y|\mathbf{x}) \tag{17.13}$$
- $$\Leftrightarrow \beta_j = \frac{1}{\text{E}(y|\mathbf{x})} \cdot \frac{\partial \text{E}(y|\mathbf{x})}{\partial x_j}. \tag{17.14}$$
+ $$\frac{\partial \text{E}(y|/mathbf{x})}{\partial x_j} = \beta_j \cdot e^{\mathbf{x}\boldsymbol{\beta}} = \beta_j \cdot \text{E}(y|/mathbf{x}) \tag{17.13}$$
+ $$\Leftrightarrow \beta_j = \frac{1}{\text{E}(y|/mathbf{x})} \cdot \frac{\partial \text{E}(y|/mathbf{x})}{\partial x_j}. \tag{17.14}$$
 
- If $x_j$ increases by one unit (and the other regressors remain the same), $\text{E}(y|\mathbf{x})$ will increase roughly by $100 \cdot \beta_j$ percent (the exact value is once again $100 \cdot (e^{\beta_j} - 1)$).
+ If $x_j$ increases by one unit (and the other regressors remain the same), $\text{E}(y|/mathbf{x})$ will increase roughly by $100 \cdot \beta_j$ percent (the exact value is once again $100 /cdot (e^{/beta_j} - 1)$).
 
  A problem with the Poisson model is that it is quite restrictive. The Poisson distribution implicitly restricts the variance of $y$ to be equal to its mean. If this assumption is violated but the conditional mean is still correctly specified, the Poisson parameter estimates are consistent, but the standard errors and all inferences based on them are invalid. A simple solution is to interpret the Poisson estimators as quasi-maximum likelihood estimators (QMLE). Similar to the heteroscedasticity-robust inference for OLS discussed in Section 8.1, the standard errors can be adjusted.
 
@@ -985,13 +985,13 @@ Script 17.12: Example-17-3-2.R
 
  Corner solutions describe situations where the variable of interest is continuous but restricted in range. Typically, it cannot be negative. A significant share of people buy exactly zero amounts of alcohol, tobacco, or diapers. The Tobit model explicitly models dependent variables like this. It can be formulated in terms of a latent variable $y^*$ that can take all real values. For it, the classical linear regression model assumptions MLR.1--MLR.6 are assumed to hold. If $y^*$ is positive, we observe $y = y^*$. Otherwise, $y = 0$. Wooldridge (2019, Section 17.2) shows how to derive properties and the likelihood function for this model.
 
- The problem of interpreting the parameters is similar to logit or probit models. While $\beta_j$ measures the *ceteris paribus* effect of $x_j$ on $\text{E}(y^*|\mathbf{x})$, the interest is typically in $y$ instead. The partial effect of interest can be written as
- $$\frac{\partial \text{E}(y|\mathbf{x})}{\partial x_j} = \beta_j \cdot \Phi \left( \frac{\mathbf{x}\boldsymbol{\beta}}{\sigma} \right) \tag{17.15}$$
+ The problem of interpreting the parameters is similar to logit or probit models. While $\beta_j$ measures the *ceteris paribus* effect of $x_j$ on $\text{E}(y^*|/mathbf{x})$, the interest is typically in $y$ instead. The partial effect of interest can be written as
+ $$\frac{\partial \text{E}(y|/mathbf{x})}{\partial x_j} = \beta_j \cdot \Phi \left( /frac{/mathbf{x}/boldsymbol{/beta}}{/sigma} /right) \tag{17.15}$$
  and again depends on the regressor values $\mathbf{x}$. To aggregate them over the sample, we can either calculate the partial effects at the average (PEA) or the average partial effect (APE) just like with the binary variable models.
 
  Figure [17.3](#_bookmark32) depicts these properties for a simulated data set with only one regressor. Whenever $y^*  0$, $y = y^*$ and the symbols $\circ$ and $+$ are on top of each other. If $y^* < 0$, then $y = 0$. Therefore, the slope of $\text{E}(y|x)$ gets close to zero for very low $x$ values. The code that generated the data set and the graph is hidden as Script 17.13 (Tobit-CondMean.R) in Appendix IV (p. 353).
 
- For the practical ML estimation in $R$, there are different options. Package ***AER*** provides the command `tobit` and package ***censReg*** offers the command `censReg`. Both work very similarly and are easy to use. We will present an example using the latter. The command `censReg` can be used just like `lm` with the model formula and the data option. It will estimate the standard Tobit model discussed here. Other corner solutions ($y \ge a$ or $y \le b$) can be specified using the options `left` and `right`. After storing the results from `censReg` in a variable res, the PEA can easily be calculated with `margEff(res)`.
+ For the practical ML estimation in $R$, there are different options. Package ***AER*** provides the command `tobit` and package ***censReg*** offers the command `censReg`. Both work very similarly and are easy to use. We will present an example using the latter. The command `censReg` can be used just like `lm` with the model formula and the data option. It will estimate the standard Tobit model discussed here. Other corner solutions ($y /ge a$ or $y /le b$) can be specified using the options `left` and `right`. After storing the results from `censReg` in a variable res, the PEA can easily be calculated with `margEff(res)`.
 
 ### Wooldridge, Example 17.2: Married Women's Annual Labor Supply17.2
  We have already estimated labor supply models for the women in the data set mroz.dta, ignoring the fact that the hours worked is necessarily non-negative. Script 17.14 (Example-17-2.R) estimates a Tobit model accounting for this fact. It also calculates the PEA using `margEff`.
@@ -1027,7 +1027,7 @@ Script 17.15: Example-17-2-survreg.R
 
  Censored regression models are closely related to Tobit models. In fact, their parameters can be estimated with the same software packages. General censored regression models also start from a latent variable $y^*$. The observed dependent variable $y$ is equal to $y^*$ for some (the uncensored) observations. For the other observations, we only know an upper or lower bound for $y^*$. In the basic Tobit model, we observe $y = y^*$ in the "uncensored" cases with $y^*  0$ and we only know that $y^* \le 0$ if we observe $y = 0$. The censoring rules can be much more general. There could be censoring from above or the thresholds can vary from observation to observation.
 
- The main difference between Tobit and censored regression models is the interpretation. In the former case, we are interested in the observed $y$, in the latter case, we are interested in the underlying $y^*$.[1](#_bookmark35) Censoring is merely a data problem that has to be accounted for instead of a logical feature of the dependent variable. We already know how to estimate Tobit models. With censored regression, we can use the same tools. The problem of calculating partial effects does not exist in this case since we are interested in the linear $\text{E}(y^*|\mathbf{x})$ and the slope parameters are directly equal to the partial effects of interest.
+ The main difference between Tobit and censored regression models is the interpretation. In the former case, we are interested in the observed $y$, in the latter case, we are interested in the underlying $y^*$.[1](#_bookmark35) Censoring is merely a data problem that has to be accounted for instead of a logical feature of the dependent variable. We already know how to estimate Tobit models. With censored regression, we can use the same tools. The problem of calculating partial effects does not exist in this case since we are interested in the linear $\text{E}(y^*|/mathbf{x})$ and the slope parameters are directly equal to the partial effects of interest.
 
 note1[1](#_bookmark35) Wooldridge (2019, Section 7.4) uses the notation $w$ instead of $y$ and $y$ instead of $y^*$ .
 
@@ -1038,7 +1038,7 @@ note1[1](#_bookmark35) Wooldridge (2019, Section 7.4) uses the notation $w$ inst
 
  Because of the more complicated selection rule, we use the command `survreg` for the estimation of the model in Script 17.16 (Example-17-4.R). We need to supply the dependent variable log(durat) as well as a dummy variable indicating *uncensored* observations. We generate a dummy variable uncensored within the data frame based on the existing variable cens that represents censoring.
 
- The parameters can directly be interpreted. Because of the logarithmic specification, they represent semi-elasticities. For example married individuals take around $100 \cdot \hat{\beta} \approx 34\%$ longer to be arrested again. (Actually, the accurate number is $100 \cdot (e^{\hat{\beta}} - 1) \approx 40\%$.) There is no significant effect of the work program.
+ The parameters can directly be interpreted. Because of the logarithmic specification, they represent semi-elasticities. For example married individuals take around $100 \cdot \hat{\beta} \approx 34\%$ longer to be arrested again. (Actually, the accurate number is $100 /cdot (e^{/hat{/beta}} - 1) \approx 40\%$.) There is no significant effect of the work program.
 
 ```
 Script 17.16: Example-17-4.R

@@ -22,8 +22,8 @@ y_q &= \alpha_{q1} y_1 + \alpha_{q2} y_2 + \cdots + \alpha_{q,q-1} y_{q-1} + \be
 
 <font color="#c0504d">This system is not identified without restrictions on the parameters</font>  (cf. Wooldridge (2019, Section 16).
 <font color="#6425d0">The order condition for identification of any equation is that</font>
-- <font color="#00b0f0">if we have</font> $m$ <font color="#00b0f0">included endogenous regressors (i.e.</font> $\alpha$<font color="#00b0f0"> parameters that are not restricted to 0)</font>, 
-- <font color="#00b050">we need to exclude at least </font>$m$ <font color="#00b050">exogenous regressors (i.e. restrict their </font>$\beta$ <font color="#00b050">parameters to 0). </font>
+- <font color="#00b0f0">if we have</font> $m$ <font color="#00b0f0">included endogenous regressors (i.e.</font> $/alpha$<font color="#00b0f0"> parameters that are not restricted to 0)</font>, 
+- <font color="#00b050">we need to exclude at least </font>$m$ <font color="#00b050">exogenous regressors (i.e. restrict their </font>$/beta$ <font color="#00b050">parameters to 0). </font>
 - cela en vertu de la règle à vérifier par équation (K-k)⩾ m (donc K-k (nbre rég exogènes exclus) est au minimum égal à m)
 - <font color="#00b050">This excluded exogenous regressors can then be used as instrumental variables.</font>
 Attention le choix des règresseurs exclus n'est pas arbitraire, mais à des considérations de théorie économique.
@@ -31,8 +31,8 @@ Attention le choix des règresseurs exclus n'est pas arbitraire, mais à des con
 
  <font color="#c0504d">We have the two endogenous variables hours and wage</font> which influence each other.
 $$\begin{aligned}
-\text{hours} &= \alpha_{12} \log(\text{wage}) + \beta_{10} + \beta_{11} \text{educ} + \beta_{12} \text{age} + \beta_{13} \text{kidslt6} + \beta_{14} \text{nwifeinc} + \beta_{15} \text{exper} + \beta_{16} \text{exper}^2 + u_1 \\
-\log(\text{wage}) &= \alpha_{21} \text{hours} + \beta_{20} + \beta_{21} \text{educ} + \beta_{22} \text{age} + \beta_{23} \text{kidslt6} + \beta_{24} \text{nwifeinc} + \beta_{25} \text{exper} + \beta_{26} \text{exper}^2 + u_2
+\text{hours} &= \alpha_{12} \log(/text{wage}) + \beta_{10} + \beta_{11} \text{educ} + \beta_{12} \text{age} + \beta_{13} \text{kidslt6} + \beta_{14} \text{nwifeinc} + \beta_{15} \text{exper} + \beta_{16} \text{exper}^2 + u_1 \\
+\log(/text{wage}) &= \alpha_{21} \text{hours} + \beta_{20} + \beta_{21} \text{educ} + \beta_{22} \text{age} + \beta_{23} \text{kidslt6} + \beta_{24} \text{nwifeinc} + \beta_{25} \text{exper} + \beta_{26} \text{exper}^2 + u_2
 \end{aligned}$$
 
 <font color="#00b0f0">Pour que les deux équations soient identifiées, nous devons exclure au moins un régresseur exogène de chaque équation.</font> 
@@ -41,8 +41,8 @@ $$\begin{aligned}
 - l'équation 2 a un régresseur endogène (hours), idem
 
 Wooldridge (2019) discute un modèle dans lequel <font color="#00b0f0">nous imposons</font>
-- $\beta_{15} = \beta_{16} = 0$ dans la première équation (il s'agit de $\beta_{15} \text{exper} + \beta_{16} \text{exper}^2$)
-- et $\beta_{22} = \beta_{23} = \beta_{24} = 0$ dans la deuxième équation (il s'agit de $\beta_{22} \text{age} + \beta_{23} \text{kidslt6} + \beta_{24} \text{nwifeinc}$ )
+- $\beta_{15} = \beta_{16} = 0$ dans la première équation (il s'agit de $/beta_{15} /text{exper} + /beta_{16} /text{exper}^2$)
+- et $\beta_{22} = \beta_{23} = \beta_{24} = 0$ dans la deuxième équation (il s'agit de $/beta_{22} /text{age} + /beta_{23} /text{kidslt6} + /beta_{24} /text{nwifeinc}$ )
 
 <font color="#00b0f0">Commentaire hr :</font>
 - Les régresseurs exclus sont ceux de var exogènes (ne figurant pas dans la gauche du système, cad non des yi)

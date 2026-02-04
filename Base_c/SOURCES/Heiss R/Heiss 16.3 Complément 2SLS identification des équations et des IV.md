@@ -1,7 +1,7 @@
 ### Wooldridge, Example 16.3: Labor Supply of Married, Working Women16.3
 
  <font color="#c0504d">We have the two endogenous variables hours and wage</font> which influence each other.
-$hours= \alpha_{12} \log(\text{wage}) + \beta_{10} + \beta_{11} \text{educ} + \beta_{12} \text{age} + \beta_{13}\text{kidslt6} + \beta_{14} \text{nwifeinc} + \beta_{15} \text{exper} + \beta_{16} \text{exper}^2 + u_1$
+$hours= \alpha_{12} \log(/text{wage}) + \beta_{10} + \beta_{11} \text{educ} + \beta_{12} \text{age} + \beta_{13}\text{kidslt6} + \beta_{14} \text{nwifeinc} + \beta_{15} \text{exper} + \beta_{16} \text{exper}^2 + u_1$
 $log(wage)= \alpha_{21} \text{hours} + \beta_{20} + \beta_{21} \text{educ} + \beta_{22} \text{age} + \beta_{23} \text{kidslt6} + \beta_{24} \text{nwifeinc} + \beta_{25} \text{exper} + \beta_{26} \text{exper}^2 + u_2$
 
 <font color="#00b0f0">Pour que les deux équations soient identifiées, nous devons exclure au moins un régresseur exogène de chaque équation.</font> 
@@ -9,8 +9,8 @@ $log(wage)= \alpha_{21} \text{hours} + \beta_{20} + \beta_{21} \text{educ} + \be
 - l'équation 2 a un régresseur endogène (hours), idem
 
 Wooldridge (2019) discute un modèle dans lequel <font color="#00b0f0">l'analyse économique met en évidence</font>
-- $\beta_{15} = \beta_{16} = 0$ dans la première équation (il s'agit de $\beta_{15} \text{exper} + \beta_{16} \text{exper}^2$) peuvent servir de vi
-- et $\beta_{22} = \beta_{23} = \beta_{24} = 0$ dans la deuxième équation (il s'agit de $\beta_{22} \text{age} + \beta_{23} \text{kidslt6} + \beta_{24} \text{nwifeinc}$ ) peuvent servir de vi.
+- $\beta_{15} = \beta_{16} = 0$ dans la première équation (il s'agit de $/beta_{15} /text{exper} + /beta_{16} /text{exper}^2$) peuvent servir de vi
+- et $\beta_{22} = \beta_{23} = \beta_{24} = 0$ dans la deuxième équation (il s'agit de $/beta_{22} /text{age} + /beta_{23} /text{kidslt6} + /beta_{24} /text{nwifeinc}$ ) peuvent servir de vi.
 
 <font color="#00b0f0">Commentaire hr :</font>
 - Les régresseurs exclus sont ceux de var exogènes (ne figurant pas dans la gauche du système, cad non des yi)
@@ -69,7 +69,7 @@ La vérification, effectuée équation par équation, est purement mécanique :
 Ainsi, le choix des instruments n'est pas arbitraire, mais suppose un raisonnement : ici, la var "Coûts de pn" ne fait pas partie de l'équation de demande (en est exclue), donc n'affecte pas directement la demande,  mais affectent le prix donc peut en être l'instrument.
 
   <font color="#00b0f0">Équation d'Offre :</font>
-	 Variables endogènes incluses (m) : \( P \) → `m = 1`.
+	 Variables endogènes incluses (m) : \( P /) → `m = 1`.
 	 Variables exogènes incluses (k) : Constante, Coût_Production → `k = 2`.
 	 Variables exogènes excluses (K - k) : `3 - 2 = 1` (<font color="#c00000">Revenu est exclu</font>).
 	 Condition : `(K-k) = 1 ≥ m = 1` → Identifiée (juste identifiée). 
@@ -259,3 +259,4 @@ Cette spécification est aussi identifiable et souvent plus robuste.
 
 <font color="#00b0f0">Cette spécification vous donne un point de départ théoriquement fondé</font>.
 <font color="#00b050"> L'étape suivante est de tester empiriquement ces hypothheses avec vos données.</font>
+

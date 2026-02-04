@@ -1,6 +1,6 @@
 # Heiss 13 et 14. Panels_Fr
 - Générer un échantillon poolé de 2 années (1978 et 1985) par le biais d'une variable muette [[Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^y85]]
-- $β_1$ : rendt educ 78 et $β_1+δ_1$ : rendt educ 85 dans $lwage = \beta_0 + \delta_0 y85 + \beta_1 educ + \delta_1 (y85 \cdot educ)$ : [[Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^δ1]]
+- $β_1$ : rendt educ 78 et $β_1+δ_1$ : rendt educ 85 dans $lwage = \beta_0 + \delta_0 y85 + \beta_1 educ + \delta_1 (y85 /cdot educ)$ : [[Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^δ1]]
 - Utiliser des variables transformées : <font color="#ff0000">I</font>((exper^2)/100) : diviser exper² par 100 multiplie $β_3$ par 100.
 - La transformation log pour obtenir des effets en % (y augmente de 5%,,,) [[Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^2e761f]]
 - Stargazer pour afficher en parallèle l'output de 2 rég : [[Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^74e7c9]]

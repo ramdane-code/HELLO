@@ -16,7 +16,7 @@ Actions proposées
 -----------------
 1. Ignorer les plugins Obsidian (`.obsidian/`) dans le dépôt (déjà appliqué).
 2. Générer un sommaire JSON (`toc_headings.json`) listant les titres des fichiers Markdown.
-3. Normaliser les extensions et nettoyer les doublons (`*.md.md`).
+3. Normaliser les extensions et nettoyer les doublons (`*/.md`).
 4. Extraire un sous-ensemble prioritaire pour analyses détaillées (ex: `Mes_Notes/00_CENTRAL`).
 
 Comment l'utiliser
@@ -28,3 +28,4 @@ Prochaines étapes recommandées
 -----------------------------
 - Valider les fichiers sensibles à exclure (données privées) avant partage.
 - Mettre en place un job git périodique (cron / scheduled task) pour regénérer le sommaire.
+
