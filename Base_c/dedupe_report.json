@@ -1,0 +1,162 @@
+[
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Concepts.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Concepts.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Methodes.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Methodes.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Problemes.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Problemes.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Questions_Type.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Questions_Type.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Effets_Fixes.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Effets_Fixes.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Hétéroscesdasticité.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Hétéroscesdasticité.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Variables_Instrumentales.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Variables_Instrumentales.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\02_METHODES\\Diff_in_Diff.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\02_METHODES\\Diff_in_Diff.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\02_METHODES\\Panel_Within_Between.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\02_METHODES\\Panel_Within_Between.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\02_METHODES\\Regression_logistique.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\02_METHODES\\Regression_logistique.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\03_PROBLEMES\\Autocorrélation.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\03_PROBLEMES\\Autocorrélation.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\03_PROBLEMES\\Biais_Variables_Omises.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\03_PROBLEMES\\Biais_Variables_Omises.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\03_PROBLEMES\\Endogénéité.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\03_PROBLEMES\\Endogénéité.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\03_TEMPLATES_PROJETS (docs complets)\\template_these_chapitre.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\03_TEMPLATES_PROJETS (docs complets)\\template_these_chapitre.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\04_DONNEES_EXEMPLES\\description_données.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\04_DONNEES_EXEMPLES\\description_données.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\00_CHECKLISTS\\checklist_analyse_panel.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\00_CHECKLISTS\\checklist_analyse_panel.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\00_CHECKLISTS\\checklist_diagnostics.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\00_CHECKLISTS\\checklist_diagnostics.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\00_CHECKLISTS\\checklist_rapport.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\00_CHECKLISTS\\checklist_rapport.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\Flux_nouvelle_question.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\Flux_nouvelle_question.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\flux_replication_article.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\flux_replication_article.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\flux_revision.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\flux_revision.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\flux_these_chapitre.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\05_WORKFLOW\\01_FLUX_TRAVAIL\\flux_these_chapitre.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\06_QUESTIONS\\Q01_Impact_politique.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\06_QUESTIONS\\Q01_Impact_politique.md.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\06_QUESTIONS\\Q02_Déterminants _salaire.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\06_QUESTIONS\\Q02_Déterminants _salaire.md.md",
+    "action": "renamed"
+  }
+]
