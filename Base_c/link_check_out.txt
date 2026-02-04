@@ -1,0 +1,200 @@
+Found 97 markdown files
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\CONCEPT.md (1/97)
+  Missing wikilink: lien vers Problème - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\lien vers Problème - Nom.md
+  Missing wikilink: lien vers Problème - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\lien vers Problème - Nom.md
+  Missing wikilink: Concept apparenté - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Concept apparenté - Nom.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\HYPOTHÈSE.md (2/97)
+  Missing wikilink: Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL/test_hausman.R|Test - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\01_METHODES_ESTIMATION (Templates)\\PANEL\\test_hausman.R
+  Missing wikilink: Problème - Nom du problème qui apparaît -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Problème - Nom du problème qui apparaît.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\OBJECTIF.md (3/97)
+  Missing wikilink: lien vers Problème principal - Nom du problème -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\lien vers Problème principal - Nom du problème.md
+  Missing wikilink: Workflow - Nom de la méthode -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Workflow - Nom de la méthode.md
+  Missing wikilink: Problème fréquent - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Problème fréquent - Nom.md
+  Missing wikilink: Problème fréquent - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Problème fréquent - Nom.md
+  Missing wikilink: Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL/test_hausman.R|Test - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\01_METHODES_ESTIMATION (Templates)\\PANEL\\test_hausman.R
+  Missing wikilink: R - Nom de la fonction de test -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\R - Nom de la fonction de test.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md (4/97)
+  Missing wikilink: Étape liée à un concept -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Étape liée à un concept.md
+  Missing wikilink: Étape liée à un concept -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Étape liée à un concept.md
+  Missing wikilink: Étape liée à un concept -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Étape liée à un concept.md
+  Missing wikilink: Lien vers variante -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Lien vers variante.md
+  Missing wikilink: Lien vers variante -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Lien vers variante.md
+  Missing wikilink: Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv|Exemple - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\04_DONNEES_EXEMPLES\\panel_exemple.csv
+  Missing wikilink: Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv|Exemple - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\04_DONNEES_EXEMPLES\\panel_exemple.csv
+  Missing wikilink: SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Problème - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 18. TS Econometrics Advanced Topics Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Problème - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 18. TS Econometrics Advanced Topics Fr
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PROBLEME.md (5/97)
+  Missing wikilink: Solution 1 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Solution 1.md
+  Missing wikilink: SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Méthode - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 18. TS Econometrics Advanced Topics Fr
+  Missing wikilink: Solution 2 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Solution 2.md
+  Missing wikilink: SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Méthode - Nom -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 18. TS Econometrics Advanced Topics Fr
+  Missing wikilink: Solution 1 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Solution 1.md
+  Missing wikilink: Méthode 1 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Méthode 1.md
+  Missing wikilink: Solution 2 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Solution 2.md
+  Missing wikilink: Méthode 2 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Méthode 2.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\R (CODE FONCTION Package).md (6/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\Workflow (causal panel).md (7/97)
+  Missing wikilink: PROBLÈME -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\PROBLÈME.md
+  Missing wikilink: PROBLÈME -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\PROBLÈME.md
+  Missing wikilink: PROBLÈME -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\PROBLÈME.md
+  Missing wikilink: PROBLÈME -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\PROBLÈME.md
+  Missing wikilink: R -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\R.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\Workflow.md (8/97)
+  Missing wikilink: Lien vers objectif -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Lien vers objectif.md
+  Missing wikilink: Lien vers problème -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Lien vers problème.md
+  Missing wikilink: Problème 1 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Problème 1.md
+  Missing wikilink: Problème 2 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Problème 2.md
+  Missing wikilink: Exemple 1 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Exemple 1.md
+  Missing wikilink: Exemple 2 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Exemple 2.md
+  Missing wikilink: Concept 1 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Concept 1.md
+  Missing wikilink: Concept 2 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Concept 2.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\.obsidian\README.md (9/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\00_CENTRAL\Index_Concepts.md (10/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\00_CENTRAL\Index_Methodes.md (11/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\00_CENTRAL\Index_Problemes.md (12/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\00_CENTRAL\Questions_Type.md (13/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\01_CONCEPTS CLES (à maintenir à jour)\Concepts clés (à maintenir à jour).md (14/97)
+  Missing wikilink: Hétéroscédasticité -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Hétéroscédasticité.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\01_CONCEPTS CLES (à maintenir à jour)\Effets_Fixes.md (15/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\01_CONCEPTS CLES (à maintenir à jour)\Hétéroscesdasticité.md (16/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\01_CONCEPTS CLES (à maintenir à jour)\Variables_Instrumentales.md (17/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\02_METHODES\Diff_in_Diff.md (18/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\02_METHODES\Panel_Within_Between.md (19/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\02_METHODES\Regression_logistique.md (20/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\03_PROBLEMES\Autocorrélation.md (21/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\03_PROBLEMES\Biais_Variables_Omises.md (22/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\03_PROBLEMES\Endogénéité.md (23/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\00_UTILITAIRES\chargement_données.R.md (24/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\00_UTILITAIRES\fonctions_diagnostics.R.md (25/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\00_UTILITAIRES\nettoyage_données.R.md (26/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\00_UTILITAIRES\visualisation.R.md (27/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\CROSS_SECTION\ols_robuste.R.md (28/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\CROSS_SECTION\probit_logit.R.md (29/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\CROSS_SECTION\regression_logistique.R.md (30/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\CROSS_SECTION\selection_models.R.md (31/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\DONNEES_EN_PANEL\diff_in_diff.R.md (32/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\DONNEES_EN_PANEL\matching.R.md (33/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\DONNEES_EN_PANEL\rdd.R.md (34/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\PANEL\effets_aleatoires.R.md (35/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\PANEL\effets_fixes_basiques.R.md (36/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\PANEL\panel_dynamique.R.md (37/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\PANEL\panel_non_lineaire.R.md (38/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\PANEL\test_hausman.R.md (39/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\SERIES_TEMPORELLES\arima.R.md (40/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\SERIES_TEMPORELLES\stationnarite_tests.R.md (41/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\SERIES_TEMPORELLES\var.R.md (42/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\VARIABLES_INSTRUMENTALES\gmm.R.md (43/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\VARIABLES_INSTRUMENTALES\iv_basique.R.md (44/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\01_METHODES_ESTIMATION (Templates)\VARIABLES_INSTRUMENTALES\tests_validite_instruments.R.md (45/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\bootstrap_simulation\bootstrap_coefficients.R.md (46/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\bootstrap_simulation\simulation_monte_carlo.R.md (47/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\tests_hypotheses\autocorrelation.R.md (48/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\tests_hypotheses\heteroscedasticite.R.md (49/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\tests_hypotheses\multicolinearite.R.md (50/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\tests_hypotheses\tests_normalité.R.md (51/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\validation_modeles\criteres_information.R.md (52/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\validation_modeles\cross_validation.R.md (53/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\02_DIAGNOSTICS_VALIDATION (tests modulaires)\validation_modeles\prediction_tests.R.md (54/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\03_TEMPLATES_PROJETS (docs complets)\template_analyse_panel.Rmd.md (55/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\03_TEMPLATES_PROJETS (docs complets)\template_article.Rmd.md (56/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\03_TEMPLATES_PROJETS (docs complets)\template_these_chapitre.md (57/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\04_DONNEES_EXEMPLES\description_données.md (58/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\04_DONNEES_EXEMPLES\panel_exemple.csv.md (59/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\04_DONNEES_EXEMPLES\time_series_exemple.csv.md (60/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\05_OUTPUTS\graphiques.md (61/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\05_OUTPUTS\logs.md (62/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\04_CODE R\05_OUTPUTS\Tables_regression.md (63/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\00_CHECKLISTS\checklist_analyse_panel.md (64/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\00_CHECKLISTS\checklist_diagnostics.md (65/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\00_CHECKLISTS\checklist_rapport.md (66/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\01_FLUX_TRAVAIL\Flux_nouvelle_question.md (67/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\01_FLUX_TRAVAIL\flux_replication_article.md (68/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\01_FLUX_TRAVAIL\flux_revision.md (69/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\01_FLUX_TRAVAIL\flux_these_chapitre.md (70/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\03_AUTOMATISATION\generer_rapport.R.md (71/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\03_AUTOMATISATION\sync_notes.R.md (72/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\05_WORKFLOW\03_AUTOMATISATION\update_references.R.md (73/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\06_QUESTIONS\Q01_Impact_politique.md (74/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\06_QUESTIONS\Q02_Déterminants _salaire.md (75/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\07_EXTERNAL\Articles.md (76/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\07_EXTERNAL\Cours.md (77/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\07_EXTERNAL\Livres.md (78/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Chap1 Heiss Résumé (à nettoyer).md (79/97)
+  Missing wikilink: ../../zImages/Pasted image 20260111174913.png -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\..\\..\\zImages\\Pasted image 20260111174913.png
+  Missing wikilink: ../../zImages/Pasted image 20260112064403.png -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\..\\..\\zImages\\Pasted image 20260112064403.png
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md (80/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Heiss 15. Variables instrumentales.md (81/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Heiss 16. Modèles d'équations simulatanées.md (82/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Heiss 16.3 Complément 2SLS identification des équations et des IV.md (83/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Heiss 17. Modéles à Var dépendante llimitée.md (84/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Heiss 18. TS Econometrics Advanced Topics Fr.md (85/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Heiss Panel+.md (86/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Mega Cheat sheet pour R.md (87/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Mon Index des notes et astuces R.md (88/97)
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^y85 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^δ1 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^2e761f -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^74e7c9 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^fcf4b6 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^obsETcol -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^8b2fb9 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^66e961 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr
+  Missing wikilink: SOURCES/Heiss R/Heiss 15. Variables instrumentales|Heiss 15. Variables instrumentales#^521849 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales
+  Missing wikilink: SOURCES/Heiss R/Heiss 15. Variables instrumentales|Heiss 15. Variables instrumentales#^54be7e -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales
+  Missing wikilink: ITER.10-Régression avec données de Panel (rwpd)#^121489 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\ITER.10-Régression avec données de Panel (rwpd)#^121489
+  Missing wikilink: ITER.10-Régression avec données de Panel (rwpd)#^5b5c71 -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\ITER.10-Régression avec données de Panel (rwpd)#^5b5c71
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Pour mieux retenir.md (89/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\Script R Heiss Wooldridge.md (90/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\Heiss R\ScriptR_Woo_colore.md (91/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\CONCEPT.md (92/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\index_enriched.md (93/97)
+  Missing mdlink: _templates/R (CODE FONCTION Package -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\R (CODE FONCTION Package.md
+  Missing mdlink: _templates/Workflow (causal panel -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\Workflow (causal panel.md
+  Missing mdlink: Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\01_METHODES_ESTIMATION (Templates.md
+  Missing mdlink: Mes_Notes/04_CODE R/02_DIAGNOSTICS_VALIDATION (tests modulaires -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\02_DIAGNOSTICS_VALIDATION (tests modulaires.md
+  Missing mdlink: Mes_Notes/04_CODE R/03_TEMPLATES_PROJETS (docs complets -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\03_TEMPLATES_PROJETS (docs complets.md
+  Missing mdlink: SOURCES/Heiss R/Chap1 Heiss Résumé (à nettoyer -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Chap1 Heiss Résumé (à nettoyer.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\index.md (94/97)
+  Missing mdlink: _templates/CONCEPT.md.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\CONCEPT.md.md
+  Missing mdlink: _templates/HYPOTHÈSE.md.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\HYPOTHÈSE.md.md
+  Missing mdlink: _templates/OBJECTIF.md.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\OBJECTIF.md.md
+  Missing mdlink: _templates/PATTERN.md.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\PATTERN.md.md
+  Missing mdlink: _templates/PROBLEME.md.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\PROBLEME.md.md
+  Missing mdlink: _templates/R (CODE, FONCTION, Package -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\R (CODE, FONCTION, Package.md
+  Missing mdlink: _templates/Workflow (causal panel -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\Workflow (causal panel.md
+  Missing mdlink: _templates/Workflow.md.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\\Workflow.md.md
+  Missing mdlink: Mes_Notes/00_CENTRAL/Index_Concepts.md.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\00_CENTRAL\\Index_Concepts.md.md
+  Missing mdlink: Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\01_METHODES_ESTIMATION (Templates.md
+  Missing mdlink: Mes_Notes/04_CODE R/02_DIAGNOSTICS_VALIDATION (tests modulaires -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\02_DIAGNOSTICS_VALIDATION (tests modulaires.md
+  Missing mdlink: Mes_Notes/04_CODE R/03_TEMPLATES_PROJETS (docs complets -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Mes_Notes\\04_CODE R\\03_TEMPLATES_PROJETS (docs complets.md
+  Missing mdlink: SOURCES/Heiss R/Chap1  Heiss Résumé (à nettoyer -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer.md
+  Missing mdlink: SOURCES/Heiss R/Heiss 16.3 Complément 2SLS  identification des équations et des IV.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md
+  Missing mdlink: SOURCES/Heiss R/Heiss 18. TS Econometrics, Advanced Topics Fr.md -> C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\pour_chatgpt.md (95/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\README.md (96/97)
+Checking file C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\Untitled.md (97/97)
+Wrote C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\link_check_report.json (missing: 77)
+
+[32;1mfile                                                                 [0m[32;1m link[0m
+[32;1m----                                                                 [0m [32;1m----                                               [0m
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\CONCEPT.md   lien vers Problème - Nom                           
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\CONCEPT.md   lien vers Problème - Nom                           
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\CONCEPT.md   Concept apparenté - Nom                            
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\HYPOTHÈSE.md Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templa…
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\HYPOTHÈSE.md Problème - Nom du problème qui apparaît            
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\OBJECTIF.md  lien vers Problème principal - Nom du problème     
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\OBJECTIF.md  Workflow - Nom de la méthode                       
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\OBJECTIF.md  Problème fréquent - Nom                            
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\OBJECTIF.md  Problème fréquent - Nom                            
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\OBJECTIF.md  Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templa…
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\OBJECTIF.md  R - Nom de la fonction de test                     
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   Étape liée à un concept                            
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   Étape liée à un concept                            
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   Étape liée à un concept                            
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   Lien vers variante                                 
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   Lien vers variante                                 
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exem…
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exem…
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced…
+C:\Users\ramda\.vscode\MonProjet\HELLO\Base_c\_templates\PATTERN.md   SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced…
+

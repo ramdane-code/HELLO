@@ -13,62 +13,14 @@
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
-    "link": "Hypothèse - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Hypothèse - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
-    "link": "Hypothèse - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Hypothèse - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
     "link": "Concept apparenté - Nom",
     "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept apparenté - Nom.md",
     "type": "wikilink"
   },
   {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
-    "link": "Pattern apparenté - Nom du pattern",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Pattern apparenté - Nom du pattern.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
-    "link": "Workflow - Nom du workflow",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Workflow - Nom du workflow.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
-    "type": "wikilink"
-  },
-  {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
-    "link": "Concept - Nom du concept concerné",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom du concept concerné.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
-    "link": "Test - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Test - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
-    "link": "R - Fonction de test",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\R - Fonction de test.md",
+    "link": "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL/test_hausman.R|Test - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\01_METHODES_ESTIMATION (Templates)\\\\PANEL\\\\test_hausman.R",
     "type": "wikilink"
   },
   {
@@ -78,33 +30,9 @@
     "type": "wikilink"
   },
   {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
-    "type": "wikilink"
-  },
-  {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
     "link": "lien vers Problème principal - Nom du problème",
     "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\lien vers Problème principal - Nom du problème.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
-    "link": "Hypothèse - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Hypothèse - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
-    "link": "Hypothèse - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Hypothèse - Nom.md",
     "type": "wikilink"
   },
   {
@@ -127,8 +55,8 @@
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
-    "link": "Test - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Test - Nom.md",
+    "link": "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL/test_hausman.R|Test - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\01_METHODES_ESTIMATION (Templates)\\\\PANEL\\\\test_hausman.R",
     "type": "wikilink"
   },
   {
@@ -138,30 +66,6 @@
     "type": "wikilink"
   },
   {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
-    "link": "Pattern - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Pattern - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
-    "link": "Pattern - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Pattern - Nom.md",
-    "type": "wikilink"
-  },
-  {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
     "link": "Étape liée à un concept",
     "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Étape liée à un concept.md",
@@ -193,56 +97,26 @@
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Workflow - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Workflow - Nom.md",
+    "link": "Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv|Exemple - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\04_DONNEES_EXEMPLES\\\\panel_exemple.csv",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Exemple - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Exemple - Nom.md",
+    "link": "Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv|Exemple - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\04_DONNEES_EXEMPLES\\\\panel_exemple.csv",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Exemple - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Exemple - Nom.md",
+    "link": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Problème - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 18. TS Econometrics Advanced Topics Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Problème - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Problème - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Problème - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Problème - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
+    "link": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Problème - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 18. TS Econometrics Advanced Topics Fr",
     "type": "wikilink"
   },
   {
@@ -253,8 +127,8 @@
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Méthode - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Méthode - Nom.md",
+    "link": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Méthode - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 18. TS Econometrics Advanced Topics Fr",
     "type": "wikilink"
   },
   {
@@ -265,32 +139,8 @@
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Méthode - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Méthode - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Objectif - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif - Nom.md",
+    "link": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Méthode - Nom",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 18. TS Econometrics Advanced Topics Fr",
     "type": "wikilink"
   },
   {
@@ -318,54 +168,6 @@
     "type": "wikilink"
   },
   {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Concept parent",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept parent.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
-    "link": "Objectif concerné",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Objectif concerné.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
-    "link": "Concept - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Concept - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
-    "link": "Workflow - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Workflow - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
-    "link": "Workflow - Nom",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Workflow - Nom.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
-    "link": "OBJECTIF",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\OBJECTIF.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
-    "link": "OBJECTIF",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\OBJECTIF.md",
-    "type": "wikilink"
-  },
-  {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
     "link": "PROBLÈME",
     "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\PROBLÈME.md",
@@ -387,24 +189,6 @@
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
     "link": "PROBLÈME",
     "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\PROBLÈME.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
-    "link": "HYPOTHÈSE",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\HYPOTHÈSE.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
-    "link": "PATTERN",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\PATTERN.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
-    "link": "PATTERN",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\PATTERN.md",
     "type": "wikilink"
   },
   {
@@ -463,26 +247,8 @@
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
-    "link": "Effets_Fixes",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Effets_Fixes.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
-    "link": "Variables_Instrumentales",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Variables_Instrumentales.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
     "link": "Hétéroscédasticité",
     "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Hétéroscédasticité.md",
-    "type": "wikilink"
-  },
-  {
-    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
-    "link": "Endogénéité",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Endogénéité.md",
     "type": "wikilink"
   },
   {
@@ -499,62 +265,62 @@
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^y85",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^y85",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^y85",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^δ1",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^δ1",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^δ1",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^2e761f",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^2e761f",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^2e761f",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^74e7c9",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^74e7c9",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^74e7c9",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^fcf4b6",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^fcf4b6",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^fcf4b6",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^obsETcol",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^obsETcol",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^obsETcol",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^8b2fb9",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^8b2fb9",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^8b2fb9",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^66e961",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^66e961",
+    "link": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr|Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^66e961",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 15. Variables instrumentales#^521849",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 15. Variables instrumentales#^521849",
+    "link": "SOURCES/Heiss R/Heiss 15. Variables instrumentales|Heiss 15. Variables instrumentales#^521849",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 15. Variables instrumentales",
     "type": "wikilink"
   },
   {
     "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
-    "link": "Heiss 15. Variables instrumentales#^54be7e",
-    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Heiss 15. Variables instrumentales#^54be7e",
+    "link": "SOURCES/Heiss R/Heiss 15. Variables instrumentales|Heiss 15. Variables instrumentales#^54be7e",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 15. Variables instrumentales",
     "type": "wikilink"
   },
   {
@@ -568,5 +334,131 @@
     "link": "ITER.10-Régression avec données de Panel (rwpd)#^5b5c71",
     "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\ITER.10-Régression avec données de Panel (rwpd)#^5b5c71",
     "type": "wikilink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index_enriched.md",
+    "link": "_templates/R (CODE FONCTION Package",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\R (CODE FONCTION Package.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index_enriched.md",
+    "link": "_templates/Workflow (causal panel",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\Workflow (causal panel.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index_enriched.md",
+    "link": "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\01_METHODES_ESTIMATION (Templates.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index_enriched.md",
+    "link": "Mes_Notes/04_CODE R/02_DIAGNOSTICS_VALIDATION (tests modulaires",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\02_DIAGNOSTICS_VALIDATION (tests modulaires.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index_enriched.md",
+    "link": "Mes_Notes/04_CODE R/03_TEMPLATES_PROJETS (docs complets",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\03_TEMPLATES_PROJETS (docs complets.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index_enriched.md",
+    "link": "SOURCES/Heiss R/Chap1 Heiss Résumé (à nettoyer",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Chap1 Heiss Résumé (à nettoyer.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/CONCEPT.md.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\CONCEPT.md.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/HYPOTHÈSE.md.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\HYPOTHÈSE.md.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/OBJECTIF.md.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\OBJECTIF.md.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/PATTERN.md.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\PATTERN.md.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/PROBLEME.md.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\PROBLEME.md.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/R (CODE, FONCTION, Package",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\R (CODE, FONCTION, Package.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/Workflow (causal panel",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\Workflow (causal panel.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "_templates/Workflow.md.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\\\Workflow.md.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "Mes_Notes/00_CENTRAL/Index_Concepts.md.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\00_CENTRAL\\\\Index_Concepts.md.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\01_METHODES_ESTIMATION (Templates.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "Mes_Notes/04_CODE R/02_DIAGNOSTICS_VALIDATION (tests modulaires",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\02_DIAGNOSTICS_VALIDATION (tests modulaires.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "Mes_Notes/04_CODE R/03_TEMPLATES_PROJETS (docs complets",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\\\04_CODE R\\\\03_TEMPLATES_PROJETS (docs complets.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "SOURCES/Heiss R/Chap1  Heiss Résumé (à nettoyer",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Chap1  Heiss Résumé (à nettoyer.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "SOURCES/Heiss R/Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "type": "mdlink"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\index.md",
+    "link": "SOURCES/Heiss R/Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "resolved": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\\\Heiss R\\\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "type": "mdlink"
   }
 ]
