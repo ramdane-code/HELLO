@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "95055abede2afa6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "36c5fd700d1aae76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ca53186b8200c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mes_Notes/01_CONCEPTS CLES (à maintenir à jour)/Concepts clés (à maintenir à jour).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concepts clés (à maintenir à jour)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30cf3df09ed2f9f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "161ed28b9bec07ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c48ef62ee10abaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "867f98649f0b0f91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:workflow",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d511fad37767293e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AUTRE/4. Cerveau externe  LE PLUS COMPLET.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Cerveau externe  LE PLUS COMPLET"
+            }
+          },
+          {
+            "id": "60fa09c9caea7e99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "3e577f63db7668b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "432a327f734b255a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf763a0816390618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "d0b96595db53f43f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d82a3290e8f531f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c497fdce0cb8ecac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1d850cc03f519f47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AUTRE/Architecture globale.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Architecture globale"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "floating": {
+    "id": "868eb40d44533612",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c51bd8a6b8f6992d",
+        "type": "window",
+        "children": [
+          {
+            "id": "47d433148b15277d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "26c4eb9bd356d70d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AUTRE/Architecture globale.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Architecture globale"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1738,
+        "y": 36,
+        "width": 640,
+        "height": 672,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "e9be56ef710803dd",
+        "type": "window",
+        "children": [
+          {
+            "id": "008d555ada94c5e1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18b2cc149b3cc9c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AUTRE/Améliorer ma base de connaissances.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Améliorer ma base de connaissances"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -232,
+        "y": 54,
+        "width": 605,
+        "height": 574,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9c48ef62ee10abaa",
+  "lastOpenFiles": [
+    "AUTRE/Améliorer ma base de connaissances.md",
+    "Mes_Notes/01_CONCEPTS CLES (à maintenir à jour)/Concepts clés (à maintenir à jour).md",
+    "Mes_Notes/01_CONCEPTS CLES (à maintenir à jour)/Effets_Fixes.md.md",
+    "Mes_Notes/00_CENTRAL/Index_Concepts.md.md",
+    "_templates/CONCEPT.md.md",
+    "Mes_Notes/_000_INBOX/02_TEMP",
+    "Mes_Notes/_000_INBOX/01_READING",
+    "Mes_Notes/_000_INBOX/00_FLEETING",
+    "Mes_Notes/_000_INBOX",
+    "_templates/Workflow (causal panel).md.md",
+    "_templates/PROBLEME.md.md",
+    "_templates/Workflow.md.md",
+    "_templates/R (CODE, FONCTION, Package).md.md",
+    "_templates/PATTERN.md.md",
+    "_templates/OBJECTIF.md.md",
+    "_templates/HYPOTHÈSE.md.md",
+    "AUTRE/Annoter avec Dataview (à voir).md",
+    "AUTRE/Architecture globale.md",
+    "AUTRE/Organiser le dossier Code_R (DeepSeek).md",
+    "Untitled.md",
+    "AUTRE/4. Cerveau externe  LE PLUS COMPLET.md",
+    "AUTRE/Exemples de Templates.md",
+    "AUTRE/Construire une note Pattern.md",
+    "AUTRE/Construire note conceptuelle.md",
+    "AUTRE/Comment annoter.md",
+    "AUTRE/Processus de la note à la solution d'un pb.md",
+    "AUTRE/Tester le système de notation.md",
+    "AUTRE/Construire Workflow CRE(correlated random effects).md",
+    "AUTRE/Construire Workflow Effets fixes (panel).md",
+    "AUTRE/Quand créer une note.md",
+    "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION/Untitled 3",
+    "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/VARIABLES_INSTRUMENTALES",
+    "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/CROSS_SECTION",
+    "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/DONNEES_EN_PANEL",
+    "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL",
+    "Mes_Notes/04_CODE R/02_DIAGNOSTICS_VALIDATION (tests modulaires)/bootstrap_simulation"
+  ]
+}
