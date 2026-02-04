@@ -1,0 +1,27 @@
+[
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\untitled.gitignore",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\.gitignore",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1 Heiss Résumé (à nettoyer).md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS identification des équations et des IV.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics Advanced Topics Fr.md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "action": "renamed"
+  },
+  {
+    "to": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
+    "from": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md",
+    "action": "renamed"
+  }
+]
