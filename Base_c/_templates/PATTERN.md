@@ -20,14 +20,18 @@ links: "[ ]"
 ## Application en économétrie
 [Exemple type: "Passer d’un objectif causal à un modèle panel avec effets fixes"]
 ## Workflow R associé
-→ Voir [[Workflow - Nom]]
+→ Voir [[_templates/Workflow (causal panel)|Workflow - Nom]]
 ## Exemples concrets
-- [[Exemple - Nom]]
-- [[Exemple - Nom]]
+- [[Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv|Exemple - Nom]]
+- [[Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv|Exemple - Nom]]
 ## Pièges à éviter
-- [[Problème - Nom]]
-- [[Problème - Nom]]
+- [[SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Problème - Nom]]
+- [[SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Problème - Nom]]
 ## Concepts mobilisés
-[[Concept - Nom]], [[Concept - Nom]]
+[[_templates/CONCEPT|Concept - Nom]], [[_templates/CONCEPT|Concept - Nom]]
 ## Objectifs liés
-[[Objectif - Nom]], [[Objectif - Nom]]
+[[_templates/OBJECTIF|Objectif - Nom]], [[_templates/OBJECTIF|Objectif - Nom]]
+
+
+
+

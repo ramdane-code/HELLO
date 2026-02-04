@@ -15,17 +15,17 @@ links: "[ ]"
 ## Signes / détection
 [Comment le repérer dans les données ou les résultats ?]
 ## Solutions possibles
-- [[Solution 1]] → via [[Méthode - Nom]]
-- [[Solution 2]] → via [[Méthode - Nom]]
+- [[Solution 1]] → via [[SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Méthode - Nom]]
+- [[Solution 2]] → via [[SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr|Méthode - Nom]]
 ## Cas d'école
 [Exemple typique]
 ## En R comment le diagnostiquer
 ```r
 # Code de check rapide
 ## Concepts liés
-[[Concept - Nom]], [[Concept - Nom]]
+[[_templates/CONCEPT|Concept - Nom]], [[_templates/CONCEPT|Concept - Nom]]
 ## Objectifs concernés
-[[Objectif - Nom]], [[Objectif - Nom]]
+[[_templates/OBJECTIF|Objectif - Nom]], [[_templates/OBJECTIF|Objectif - Nom]]
 text
 ## Solutions possibles
 - [[Solution 1]] → via [[Méthode 1]]
@@ -35,4 +35,8 @@ text
 ## En R : comment le diagnostiquer ?
 # Code de check rapide
 ## Liens
-[[Concept parent]], [[Objectif concerné]]
+[[_templates/CONCEPT|Concept parent]], [[_templates/OBJECTIF|Objectif concerné]]
+
+
+
+

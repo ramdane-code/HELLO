@@ -12,11 +12,11 @@ links: "[ ]"
 ---
 ## 1️⃣ OBJECTIF ÉCONOMIQUE
 👉 *Pourquoi on fait ça ?*
-- [[OBJECTIF]] {{Question causale principale}}
+- [[_templates/OBJECTIF|OBJECTIF]] {{Question causale principale}}
 - Variable d’intérêt :  
 - Effet recherché (court / long terme, moyenne, hétérogénéité ?)  
 📌 Exemple :  
-[[OBJECTIF]] Estimer l’effet causal de X sur Y avec données panel
+[[_templates/OBJECTIF|OBJECTIF]] Estimer l’effet causal de X sur Y avec données panel
 ---
 ## 2️⃣ PROBLÈME(S) ÉCONOMÉTRIQUE(S)
 👉 *Pourquoi l’OLS naïf ne marche pas ?*
@@ -39,7 +39,7 @@ Lister explicitement :
 ---
 ## 4️⃣ HYPOTHÈSE(S) CLÉS
 👉 *Qu’est-ce qu’on doit croire pour identifier l’effet ?*
-- [[HYPOTHÈSE]] {{Hypothèse centrale}}
+- [[_templates/HYPOTHÈSE|HYPOTHÈSE]] {{Hypothèse centrale}}
 - Hypothèses secondaires :
   - support commun
   - absence de chocs anticipés
@@ -51,13 +51,13 @@ Pour chaque hypothèse :
 ---
 ## 5️⃣ PATTERN(S) DE RAISONNEMENT
 👉 *Schémas standards de comparaison / identification*
-- [[PATTERN]] {{Pattern principal}}
+- [[_templates/PATTERN|PATTERN]] {{Pattern principal}}
 - Comparaison implicite :
   - within vs between
   - traité vs contrôle
   - avant vs après
 📌 Exemple :
-[[PATTERN]] Comparer within vs between  
+[[_templates/PATTERN|PATTERN]] Comparer within vs between  
 → identification via variation intra-individuelle
 
 ---
@@ -109,3 +109,5 @@ feols(y ~ x | id + time, data = df)
 - CONCEPT ↔ HYPOTHÈSE
 - CONCEPT ↔ PATTERN
 - CONCEPT ↔ R
+
+

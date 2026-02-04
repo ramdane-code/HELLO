@@ -16,8 +16,8 @@ links: "[]"
 ## Stratégie d'identification
 [Méthode économétrique choisie : Effets fixes, Diff-in-Diff, RDD…]
 ## Hypothèses nécessaires
-- [[Hypothèse - Nom]]
-- [[Hypothèse - Nom]]
+- [[_templates/HYPOTHÈSE|Hypothèse - Nom]]
+- [[_templates/HYPOTHÈSE|Hypothèse - Nom]]
 ## Données nécessaires
 - Type : panel / cross-section / time series
 - Variables minimales : Y, X, identifiants
@@ -27,9 +27,12 @@ links: "[]"
 - [[Problème fréquent - Nom]]
 - [[Problème fréquent - Nom]]
 ## Validation / tests
-- [[Test - Nom]]
+- [[Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL/test_hausman.R|Test - Nom]]
 - [[R - Nom de la fonction de test]]
 ## Concepts mobilisés
-[[Concept - Nom]], [[Concept - Nom]]
+[[_templates/CONCEPT|Concept - Nom]], [[_templates/CONCEPT|Concept - Nom]]
 ## Patterns applicables
-[[Pattern - Nom]], [[Pattern - Nom]]
+[[_templates/PATTERN|Pattern - Nom]], [[_templates/PATTERN|Pattern - Nom]]
+
+
+

@@ -15,8 +15,8 @@ links: "[ ]"
 - [[lien vers Problème - Nom]]
 - [[lien vers Problème - Nom]]
 ## Hypothèses clés
-- [[Hypothèse - Nom]]
-- [[Hypothèse - Nom]]
+- [[_templates/HYPOTHÈSE|Hypothèse - Nom]]
+- [[_templates/HYPOTHÈSE|Hypothèse - Nom]]
 ## Interprétation
 [Que mesure-t-on ? Unité ?]
 ## Quand et condition d'utiliser ?
@@ -27,12 +27,15 @@ links: "[ ]"
 - Limite 2
 ## Méthodes associées
 - [[Concept apparenté - Nom]]
-- [[Pattern apparenté - Nom du pattern]]
+- [[_templates/PATTERN|Pattern apparenté - Nom du pattern]]
 ## Implémentation R (lien)
-→ Voir [[Workflow - Nom du workflow]]
+→ Voir [[_templates/Workflow (causal panel)|Workflow - Nom du workflow]]
 → Fonctions : `fonction()`, `package::fonction()`
 ## Objectifs liés
-- [[Objectif - Nom]]
-- [[Objectif - Nom]]
+- [[_templates/OBJECTIF|Objectif - Nom]]
+- [[_templates/OBJECTIF|Objectif - Nom]]
 ## Notes complémentaires
 [Questions ouvertes, références, exemples concrets]
+
+
+

@@ -29,8 +29,9 @@ summary(result)
 - `alternative::fonction()` pour...
 - `fonction2()` si...
 ## Concepts liés
-[[Concept - Nom]], [[Concept - Nom]]
+[[_templates/CONCEPT|Concept - Nom]], [[_templates/CONCEPT|Concept - Nom]]
 ## Workflows utilisant cette fonction
-[[Workflow - Nom]], [[Workflow - Nom]]
+[[_templates/Workflow (causal panel)|Workflow - Nom]], [[_templates/Workflow (causal panel)|Workflow - Nom]]
 ## Notes
 [Tips, warnings, liens vers docs]
+
