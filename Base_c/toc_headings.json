@@ -1,0 +1,3850 @@
+[
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "{{title}}"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Définition(qu'est-ce que c'est)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Formulation / Équation/Formule"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Problèmes auquel il répond"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Hypothèses clés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Interprétation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Quand et condition d'utiliser ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Quand l'éviter ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Méthodes associées"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Implémentation R (lien)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Objectifs liés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md.md",
+    "title": "Notes complémentaires"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Hypothèse – {{title}}"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Énoncé"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Dans quel contexte ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Pourquoi est-elle importante ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Comment la tester ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Conséquences si violée"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Objectifs qui en dépendent"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md.md",
+    "title": "Notes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Objectif – {{title}}"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Question de recherche"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Problème central"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Stratégie d'identification"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Hypothèses nécessaires"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Données nécessaires"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Workflow recommandé"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Pièges courants"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Validation / tests"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Concepts mobilisés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md.md",
+    "title": "Patterns applicables"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Pattern – {{title}}"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Énoncé"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Étapes conceptuelles"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Variantes courantes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Application en économétrie"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Workflow R associé"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Exemples concrets"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Pièges à éviter"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Concepts mobilisés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md.md",
+    "title": "Objectifs liés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "{{title}}"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Description"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Conséquences sur l'estimation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Signes / détection"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Solutions possibles"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Cas d'école"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "En R comment le diagnostiquer"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Code de check rapide"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Concepts liés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Objectifs concernés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Solutions possibles"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Cas d’école / exemple typique"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "En R : comment le diagnostiquer ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Code de check rapide"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md.md",
+    "title": "Liens"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "{{title}}"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Type"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Usage principal"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Syntaxe de base"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Arguments importants"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Valeur retournée"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Exemple minimal reproductible"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Alternatives"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Concepts liés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Workflows utilisant cette fonction"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE, FONCTION, Package).md.md",
+    "title": "Notes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "WORKFLOW — {{Thème économétrique}}"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "1️⃣ OBJECTIF ÉCONOMIQUE"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "2️⃣ PROBLÈME(S) ÉCONOMÉTRIQUE(S)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "3️⃣ CONCEPT(S) MOBILISÉ(S)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "4️⃣ HYPOTHÈSE(S) CLÉS"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "5️⃣ PATTERN(S) DE RAISONNEMENT"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "6️⃣ SPÉCIFICATION ÉCONOMÉTRIQUE"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "7️⃣ IMPLÉMENTATION (R / Stata / Python)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "8️⃣ INTERPRÉTATION CAUSALE"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "9️⃣ ROBUSTESSES / ALTERNATIVES"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "🔟 SYNTHÈSE (1 paragraphe)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md.md",
+    "title": "🔗 GRAPHE OBSIDIAN — liens attendus"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "🛠️ **Template 6 – WORKFLOW**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Workflow – [Nom court et clair]"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Objectif"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Problème traité"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Étapes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "1. Préparation des données"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Code minimal"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "2. Estimation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Code cœur"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "3. Diagnostic"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Checks visuels ou tests"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "4. Interprétation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "5. Robustesse / extensions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Données attendues en entrée"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Sortie attendue"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Pièges courants et correctifs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Exemples liés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md.md",
+    "title": "Concepts mobilisés"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Concepts.md.md",
+    "title": "📚 Index des Concepts Économétriques"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\00_CENTRAL\\Index_Concepts.md.md",
+    "title": "Tous les concepts (automatique)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\00_UTILITAIRES\\fonctions_diagnostics.R.md",
+    "title": "Exemple: fonctions_diagnostics.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\01_METHODES_ESTIMATION (Templates)\\PANEL\\effets_fixes_basiques.R.md",
+    "title": "Exemple: PANEL/effets_fixes_basique.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\02_DIAGNOSTICS_VALIDATION (tests modulaires)\\tests_hypotheses\\heteroscedasticite.R.md",
+    "title": "Exemple: tests_hypotheses/heteroscedasticite.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\04_CODE R\\03_TEMPLATES_PROJETS (docs complets)\\template_analyse_panel.Rmd.md",
+    "title": "template_analyse_panel.Rmd"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Introduction"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Packages"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Noms de fichiers et Working Directory (répertoire de w)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Objets dans R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Calculs et objets de base"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Vecteurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Nommage (Naming) et indexation des vecteurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Matrices"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Listes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Les Data Frames"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Sous-data sets"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "R Data Files (Fichiers de données)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Informations de base sur un data set"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Importation et exportation de fichiers texte"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Importation et exportation d'autres formats de données"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Data sets dans les exemples de Wooldridge"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Graphismes de base"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Graphes de base"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Personnalisation des graphiques avec des options"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Superposant plusieurs plots"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Legends"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Exportation vers un fichier"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Manipulation et visualisation des données : Le Tidyverse"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Visualisation des données : Bases de ggplot"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Couleurs et formes dans  les graphiques ggplot"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Ajustement fin des graphes ggplot"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Manipulation de données de base avec dplyr"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Pipes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Manipulation avancée des données avec dplyr"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Statistiques descriptives"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Distributions discrètes : fréquences et tables de contingence"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Distributions continues : histogramme et densité"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Fonction de distribution cumulative empirique  (ECDF)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Statistiques fondamentales"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Distributions de probabilité"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "5 Distributions discrètes : BBGHP"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Distributions continues (NTFULEX)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Fonction de distribution cumulative (CDF)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Wooldridge, Exemple B.6 : Probabilités pour une variable aléatoire normal"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Fonction quantile"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Tirages aléatoires à partir de distributions de probabilité"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Intervalles de confiance et inférence statistique"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Intervalles de confiance"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Wooldridge, Exemple C.2 : Effet des subventions de formation prof sur la productivité des travailleurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Wooldridge, Exemple C.3 : Discrimination raciale dans l'embaucheC.3"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Tests t"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Wooldridge, Exemple C.5 : Discrimination raciale dans l'embauche"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "p Values"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Wooldridge, Exemple C.6 : Effet des subventions de formation prof sur la productivité des travailleurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Calculs automatiques"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "R plus avancé"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Exécution conditionnelle"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Boucles (loops)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Fonctions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Monte Carlo Simulation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Propriétés finies des estimateurs dans l'échantillon"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Propriétés asymptotiques des estimateurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1  Heiss Résumé (à nettoyer).md",
+    "title": "Simulation des intervalles de confiance et tests t"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Chap.13. <font color=\"#c00000\">Pooling Coupes Transversales dans le Tps et Panel data</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "13.0 <font color=\"#00b050\">Voir une coupe transversale </font> + définir Pooling et Panel data"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Visualisation d'un Tableau en coupes transversales"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Points communs (échantillons aléat à +ieurs périodes) et différences (Panel : tjours m échantillon)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Organisation particulière des Panels datas : col=var, lignes=obs, index de col et index de ligne</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "13.1 <font color=\"#00b050\">Estimer coupes Transversale Poolées avec lm</font> (concaténer +ieurs coupes transv)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Avantage : augmente taille, précision, analyse des variations</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Estimer 2 coupes transversales poolées (78 et 85) : données du pb et procédure</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c00000\">Script 13.1 : Estimer pooling data : charger data, reg lm, termes d'interaction, summary</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Résultats OLS détaillés incluant les termes d'interaction"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c00000\">Interprétation de l'output par DeepSeek</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "1. Contexte du modèle"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "2. Interprétations sans les interactions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "3. Interprétation des interactions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "4. Exemple numérique**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "5. Interprétation de `(Intercept) = 0.458933`: crucial dans le cadre des intéractions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "5. Synthèse"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "13.2. <font color=\"#00b050\">Estimateur Différence des Différences</font> évalue la corrélation avant et après une action"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c00000\"> Estimer l'effet d'une intervention politique avec DiD</font>**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c00000\"> Woo.ex  13.3 : installer un incinérateur de déchets affecte-t-il les prix des maisons proches</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Estimer avec lm la diff avant, la diff après et faire la diff des différences</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Estimer  DiD par rég lm conjointe avec terme d'intéraction (le coef donne l'écart avec la situation de départ)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "**<font color=\"#00b050\"> L'output de la rég inclut le test t (H0 : l'effet réel=0)</font>**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Script 13.2 : 2 façons de calculer DiD : rég lm séparées et rég lm conjointes avec terme d'intéraction</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Améliorer l'estimateur DiD </font>par transformation log et ajout de régresseurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Script 13.3 : DiD avec lm sur log et plus de régresseurs. Stargazer affiche en m tps l'output de 2 rég</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "13.3 <font color=\"#00b050\">Structure des Données de Panel et création d'un pdata.fram avec plm</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">La présence d'Effets spécifiques non observés constants dans le tps distingue les données de Panel</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Organiser les Données de Panels : Col=variable, Ligne=obs. + Index de col et Index de ligne.</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "**<font color=\"#c0504d\">Créer un pdata.frame à partir d'un DF avec le package plm, dédié aux données de Panel</font>**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\"> Script 13.4 : import data set, déf un pdata.frame, utilise pdim(), affiche les obs 1 à 6 de col. choisies</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Afficher les obs1-6 pour \"id\" et \"time\" et quelques autres variables :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "13.4 <font color=\"#00b050\">Calculs Spécifiques au Panel </font>(peuvent se faire aussi par routines automatiques)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\"> Nbre d'obs, lag, diff, Moy temporelle individuelle (betwin), var centrée ou demeaned (within)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Script 13.5 : data.set Crime4 et col crmrte (taux de crimes) : Nbre obs, lags, diff, between, within </font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "13.5 <font color=\"#00b050\">Estimateur des Premières Différences</font> pour Panel"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">L'effet spécifique inobservé constant dans le tps viole l'hyp d'indép de l'erreur par rapport aux régresseurs</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Les (FD) neutralisent l'effet spécifique; l'équation différenciée est estimé par MCO</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Partir d'un pdata.frame, utiliser diff() sur la var dépendante et les régresseurs, appliquer MCO</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Script 13.6 : estimer avec plm sur données originelles et arg : model=\"fd\"plutôt qu'avec lm sur datas différenciées.</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">plm avec option model=\"pooling\" et plm avec option model=\"fd\"</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Woo.ex  13.9 : Estimer modèle pooling avec plm, option model=\"pooling\" (à revoir, pas clair)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Script 13.7 : estimer le modèle précédent avec plm et option = \"fd\"</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Chap.14. <font color=\"#c00000\">Méthodes Avancées de Données de Panel</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "14.0 <font color=\"#00b050\">Contenu du chap </font>: estimateurs FE et RE, CRE(correlated random effects), erreurs standards robuste"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "14.1<font color=\"#00b050\"> Estimation à Effets Fixes </font>: utilise la transformation within pour neutraliser a_i"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Générer des valeurs centrées (demeaned) par la commande within puis utiliser pooled OLS</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Mieux vaut estimer FE avec plm sur original data et option : model=\"within\"</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Woo. ex 14.2: Modéle FE avec plm : effet des années d'éducation (fixes) sur le revenu à travers le temps</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Plus d'explication sur factor dans le modéle à Effets fixes individuels.</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Notion de \"factor\" en R</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Signification dans l'estimation donnée</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Pourquoi utiliser `factor(year)` ici ? : sans factor, year serait traité comme var continue</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Note sur le modèle  : \"within\" dans plm c'est Effets fixes individuels (les caract spécifiques invariant dans le tps sont éliminés)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "14.2 <font color=\"#00b050\">Modéles à effets aléatoires </font>ou Random Effects Models (RE models)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">RE suppose que a_i n'est pas corrélé aux régresseurs : plus besoin de FD ou FE pour éliminer a_i</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">La transfo GLS conduit à spécification quasi demeaned ( ne soustrait des var qu'une fraction $\\theta$ de la moyenne)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Estimation du modèle RE (comprenant les Effets fixes) par plm avec l'option model=\"random\"</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">pvar affiche la liste des variables constantes dans le temps et celles qui ne le sont pas</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Woo. ex 14.4: Estimer Panel Data avec plm pour resp. OLS. RE et FE estimateurs (récapitulation)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Etapes : charger les Datas, vérifier le pdata.frame, pvar, plm avec les 3 options, stargazer pour afficher</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Script 14.2 implémente les étapes pour estimer wage selon les 3 modèles (comparés grâce à stargazer)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Estimate different models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Pretty table of selected results (not reporting year dummies)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">plm propose Test de Hausman comparant FE et RE (plus efficace, mais avec hyp plus exigeante)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Script 14.4 implémente test de Hausman (H0 : RE is consistent est rejetée)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Note that the estimates \"reg.fe\" and \"reg.re\" are calculated in Example 14.4."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "The scripts have to be run first."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Hausman test of RE vs. FE:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Commentaire sur résultat du test de Hausman (rejet de H0 et donc de RE car pvalue <0,05."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "14.3 <font color=\"#00b050\">Dummy Variable Regression and Correlated Random Effects</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">3 façons d'estimer les paramètres de FE : within, dummy et CRE (correlated random effects)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Estimations within, dummy, cre d'un modèle FE + une RE :</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Generate pdata.frame:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Estimate FE parameter in 3 different ways:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Stargazer pour afficher en parallèle les paramètres des 4 estimations du script 14.5</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "**<font color=\"#c0504d\">Tester si RE model est plus cohérent que CRE model (H0 : RE consistent)</font>**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Note that the estimates \"reg.cre\" are calculated in Script \"Example-Dummy-CRE-1.R\""
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "which has to be run first."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "RE test as an F test on the \"Between\" coefficients"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">CRE approach can add time-constant regressors to the model.</font>**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Generate pdata.frame:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "Estimate CRE parameters"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "14.4 <font color=\"#00b050\">Robust (Clustered) Standard Errors</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Utiliser OLS, au lieu de RE, à condition d'ajuster l'erreur type par Clustered Standard Errors</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">Formule pour la matrice VC de Panel data robuste à l'hétéroscéd et autocorrélations arbitraires du terme d'erreur</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\">La commande vcovHC de plm pour obtenir un terme d'erreur robuste à l'hétéroscédasticité </font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#c0504d\"> Script 14.9 (Example-13-9-ClSE.R) implémente la formule pour clustered standard errors</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Le Script 14.9 génère Table de paramètres avec clustered SE (en plus de SE normal)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr.md",
+    "title": "<font color=\"#00b050\">Script 14.9 : Rég table avec SE(standard errors) et avec \"Clustered\" SE </font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "15. Instrumental Variables Estimation and Two Stage Least Squares"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "15.1 Instrumental Variables in Simple Regression Models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">Quand le terme d'erreur μ est corrélé au régresseur x, les paramètres issus de la rég OLS sont biaisés</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">Une bonne IV est corrélée au régresseur et est non corrélée au terme d'erreur</font> $u$"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">Implémenter une rég IV dans R avec la commande ivreg du package AER</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">Woo.ex  15.1: utiliser une IV dans l'implémentation de la régression simple (données du pb).</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">Utiliser une IV dans la régression simple (procédure d'implémentation)</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">Script 15.1 Prépare les données, calcul manuel de β, puis reg avec OLS et avec IV, enfin Stargazer</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "15.2 Plus de Régresseurs Exogènes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">ivreg permet d'utiliser plusieurs régresseurs en plus de l'instrument</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#c0504d\">Woo.ex  15.4 : Utiliser nearc4 comme IV (proxy) de Educ puis Estimation OLS et  IV</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#00b050\">Régresser Educ sur tous les autres rég yc nearc4 pour évaluer la pertinence de ce dernier</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "<font color=\"#00b050\">Script 15.2 : charge libraries et data, vérifie pertinence du proxy, estimations mco et iv, stargazer</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "15.3 Moindres Carrés en Deux Étapes"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "Woo.ex  15.5 : Rendement de l'Éducation pour les Femmes Actives (working women)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "Script 15.3 Estimation en 2 étapes et Estimation automatique d'un rég IV (Var instrumentale)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "15.4. Test d'Exogénéité des Régresseurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "Woo.ex  15.7 : Rendement de l'Éducation pour les Femmes Actives"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "15.5. Test des Restrictions de Surodentification"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "Woo.ex  15.8 : Rendement de l'Éducation pour les Femmes Actives"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "15.6. Variables Instrumentales avec Données de Panel"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 15. Variables instrumentales.md",
+    "title": "Woo.ex  15.10 : Formation Professionnelle et Productivité des Travailleurs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "16. Modèles d'Équations Simultanées"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "16.1. Configuration et Notation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "Wooldridge, Example 16.3: Labor Supply of Married, Working Women16.3"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "16.2 Estimation par 2SLS"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "Wooldridge, Exemple 16.5 : Offre de Travail des Femmes Mariées Actives"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "16.3. Estimation Conjointe du Système"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "Définir le système d'équations et les instruments"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "2SLS de l'ensemble du système (exécutez d'abord Example-16-5-systemfit-prep.R !)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "16.4. Perspective : Estimation par 3SLS"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16. Modèles d'équations simulatanées.md",
+    "title": "3SLS de l'ensemble du système (exécutez d'abord Example-16-5-systemfit-prep.R !)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Wooldridge, Example 16.3: Labor Supply of Married, Working Women16.3"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Supplément sur des Questions cruciales que je me pose à propos de l'identification :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "1. Règle d'identification (Condition d'ordre)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "2. Comment \"répartir\" les exogènes exclues ? (La logique économique pour trouver les instruments)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "3. Peut-on exclure les mêmes régresseurs de différentes équations ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "En résumé :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Correction de votre analyse"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Votre raisonnement sur les exclusions n'est pas correct"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "\"<font color=\"#ff0000\">Comment décider quelles variables exclure de quelle équation ?</font>\""
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "En pratique avec votre exemple actuel"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "<font color=\"#c00000\">Traitement du problème par DeepSeek</font>"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Modèle théorique plausible"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Justifications théoriques des exclusions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Spécification identifiable proposée"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Vérification de l'identification"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Justification économique de chaque exclusion"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Approche en pratique (comment procéder)**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Étape 1 : Estimation par 2SLS**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Étape 2 : Tests de validité**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "**Alternative plus parcimonieuse (si problèmes d'identification)**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 16.3 Complément 2SLS  identification des équations et des IV.md",
+    "title": "Points d'attention importants"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17. Modèles à Variable Dépendante Limitée et Corrections de Sélection d'Échantillon"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.1 Réponses Binaires"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.1.1. Modèles de Probabilité Linéaire"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Wooldridge, Exemple 17.1 : Participation des Femmes Mariées à la Population Active"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "prédictions pour deux femmes \"extrêmes\" (exécutez d'abord Example-17-1-1.R !) :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.1.2. Modèles Logit et Probit : Estimation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.1.3 Inférence"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Test de significativité globale :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Calcul manuel de la statistique de test LR :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Calculs automatiques incluant valeurs p,... :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Test de H0: l'expérience et l'âge ne sont pas pertinents"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.1.4. Prédictions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Prédictions à partir des modèles de probabilité linéaire, probit et logit :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "(exécutez d'abord 17-1-1.R à 17-1-4.R pour définir les variables !)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.1.5. Effets Partiels"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "EPM (exécutez d'abord 17-1-1.R à 17-1-4.R pour définir les variables !)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Calcul de l'indice linéaire aux valeurs individuelles :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Facteurs EPM = moyenne(g(xb))"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "effets partiels moyens = beta*factor :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Tableau des EPM"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Calculs automatiques des EPM avec le package mfx"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.2. Données de Comptage : Le Modèle de Régression de Poisson"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Wooldridge, Exemple 17.3 : Régression de Poisson pour le Nombre d'Arrestations"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Estimer le modèle linéaire"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Estimer le modèle Poisson"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Modèle Quasi-Poisson"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Exemple 17.3 : Tableau de régression (exécutez d'abord Example-17-3-1.R !)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.3. Corner Solution Responses : Le Modèle Tobit"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Wooldridge, Exemple 17.2 : Offre Annuelle de W des Femmes Mariées (Married Women's Annual Labor Supply)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Estimer le modèle Tobit en utilisant survreg :"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.4. Modèles de Régression Censurée et Tronquée"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Wooldridge, Exemple 17.4 : Durée de la Récidive"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "17.5. Corrections de Sélection d'Échantillon"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 17. Modéles à Var dépendante llimitée.md",
+    "title": "Wooldridge, Exemple 17.5 : Équation d'offre de salaire pour les femmes mariées"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "18. Sujets avancés en séries chronologiques"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Modèles à retards distribués infinis"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Wooldridge, Exemple 18.1 : Investissement dans le logement et inflation des prix résidentiels 18.1"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Output of Script 18.1: Example-18-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "detrended variable: residual from a regression on the obs. index:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "ts data:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Koyck geometric d.l.:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "rational d.l.:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "LRP geometric DL:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "LRP rational DL:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "18.2 Tests de racine unitaire"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Wooldridge, Exemple 18.4 : Racine unitaire dans le PIB réel 18.4"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Output of Script 18.2: Example-18-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "variable to test: y=log(gdp)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "summary output of ADF regression:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "automated ADF test using tseries:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Output of Script 18.3: Example-18-4-urca.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "automated ADF test using urca:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Régression fallacieuse"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Initialize Random Number Generator"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "i.i.d. N(0,1) innovations"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "independent random walks"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "plot"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Regression of y on x"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Initialize Random Number Generator"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "generate 10,000 independent random walks and store the p val of the t test"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "How often is p<5% ?"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Cointégration et modèles à correction d'erreur"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Prévision"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Wooldridge, Exemple 18.8 : Prévision du taux de chômage américain 18.8"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Script 18.6: Example-18-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "load updataed data from URfIE Website since online file is incomplete"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Estimate models and display results"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Predictions for 1997-2003 including 95% forecast intervals:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Wooldridge, Exemple 18.9 : Comparaison des performances de prévision hors échantillon 18.9"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Output of Script 18.7: Example-18-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Note: run Example-18-8.R first to generate the results res1 and res2"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Actual unemployment and forecasts:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Plot unemployment and forecasts:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "Forecast errors:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "RMSE:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss 18. TS Econometrics, Advanced Topics Fr.md",
+    "title": "MAE:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "13. Pooling Cross-Sections Across Time: Simple Panel Data Methods"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "13.1 Pooled Cross-Sections"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 13.2: Changes to the Return to Education and the Gender Wage Gap13.2"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Detailed OLS results including interaction terms"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "13.2. Difference-in-Differences"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 13.3: Effect of a Garbage Incinerator's Location on Housing Prices 13.3"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "13.3 Organizing Panel Data"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "13.4 Panel-specific computations"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "13.5 First Differenced Estimator"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate FD model with lm on differenced data:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate FD model with plm on original data:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 13.9: County Crime Rates in North Carolina13.9"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "14. Advanced Panel Data Methods"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "14.1 Fixed Effects Estimation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 14.2: Has the Return to Education Changed over Time?14.2"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "14.2 Random Effects Models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 14.4: A Wage Equation Using Panel Data14.4"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate different models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Pretty table of selected results (not reporting year dummies)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Note that the estimates \"reg.fe\" and \"reg.re\" are calculated in"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Example 14.4. The scripts have to be run first."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Hausman test of RE vs. FE:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "14.3 Dummy Variable Regression and Correlated Random Effects"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Generate pdata.frame:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate FE parameter in 3 different ways:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Note that the estimates \"reg.cre\" are calculated in"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Script \"Example-Dummy-CRE-1.R\" which has to be run first."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "RE test as an F test on the \"Between\" coefficients"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Generate pdata.frame:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate CRE parameters"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "14.4 Robust (Clustered) Standard Errors"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "15. Instrumental Variables Estimation and Two Stage Least Squares"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "15.1 Instrumental Variables in Simple Regression Models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 15.1: Return to Education for Married Women15.1"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "15.2 More Exogenous Regressors"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 15.4: Using College Proximity as an IV for Education15.4"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "15.3 Two Stage Least Squares"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 15.5: Return to Education for Working Women15.5"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "15.4. Testing for Exogeneity of the Regressors"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 15.7: Return to Education for Working Women15.7"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "15.5. Testing Overidentifying Restrictions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 15.8: Return to Education for Working Women15.8"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "15.6. Instrumental Variables with Panel Data"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 15.10: Job Training and Worker Productivity15.10"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "16. Simultaneous Equations Models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "16.1. Setup and Notation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 16.3: Labor Supply of Married, Working Women16.3"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "16.2 Estimation by 2SLS"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 16.5: Labor Supply of Married, Working Women16.5"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "16.3. Joint Estimation of System"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Define system of equations and instruments"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "2SLS of whole system (run Example-16-5-systemfit-prep.R first!)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "16.4. Outlook: Estimation by 3SLS"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "3SLS of whole system (run Example-16-5-systemfit-prep.R first!)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17. Limited Dependent Variable Models and Sample Selection Corrections"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.1 Binary Responses"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.1.1. Linear Probability Models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 17.1: Married Women's Labor Force Participation17.1"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "predictions for two \"extreme\" women (run Example-17-1-1.R first!):"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.1.2. Logit and Probit Models: Estimation"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.1.3 Inference"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Test of overall significance:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Manual calculation of the LR test statistic:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Automatic calculations including p-values,...:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Test of H0: experience and age are irrelevant"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.1.4. Predictions"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Predictions from linear probability, probit and logit model:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "(run 17-1-1.R through 17-1-4.R first to define the variables!)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.1.5. Partial Effects"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "APEs (run 17-1-1.R through 17-1-4.R first to define the variables!)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Calculation of linear index at individual values:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "APE factors = average(g(xb))"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "average partial effects = beta*factor:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Table of APEs"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Automatic APE calculations with package mfx"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.2. Count Data: The Poisson Regression Model"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 17.3: Poisson Regression for Number of Arrests17.3"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate linear model"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate Poisson model"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Quasi-Poisson model"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Example 17.3: Regression table (run Example-17-3-1.R first!)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.3. Corner Solution Responses: The Tobit Model"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 17.2: Married Women's Annual Labor Supply17.2"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Partial Effects at the average x:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Estimate Tobit model using survreg:"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.4. Censored and Truncated Regression Models"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 17.4: Duration of Recidivism17.4"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "17.5. Sample Selection Corrections"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Heiss Panel+.md",
+    "title": "Wooldridge, Example 17.5: Wage offer equation for married women17.5"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "📘 **Ressources \"All-in-One\" Recommandées**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "1. **R Cheat Sheets par RStudio (Posit)**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "2. **\"Econometrics in R\" Cheat Sheet** (Princeton)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "3. **\"Econometrics with R\" Online Book**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "📚 **Livres-Cheatsheet Recommandés**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "4. **\"R in Action\"** - Robert Kabacoff"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "5. **\"Using R for Introductory Econometrics\"** - Florian Heiss"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "🎯 **Ma Suggestion de \"Mega-Cheat Sheet\" Personnalisée**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "MEGA CHEAT SHEET ÉCONOMÉTRIE R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "1. PRÉPARATION DES DONNÉES"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "2. RÉGRESSION LINÉAIRE"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "3. DONNÉES DE PANEL"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "4. SÉRIES TEMPORELLES"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "5. VARIABLES INSTRUMENTALES"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "6. MODÈLES BINAIRES"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "7. BOOTSTRAP"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "🔍 **Où Trouver Plus**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mega Cheat sheet pour R.md",
+    "title": "💡 **Conseil Pratique**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "title": "Heiss 13 et 14. Panels_Fr"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "title": "Heiss 15. Variables instrumentales"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "1. Le cycle d'apprentissage actif (modèle \"Comprendre → Retenir\")"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "2. Système de fiches adapté aux modèles économétriques"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "3. Méthode des \"questions clés\" pour les outputs**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "4. Technique de la \"feuille blanche\"**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "5. Créer des \"patterns\" reconnaissables**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "6. Application à ton exemple concret"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "7. Répétition espacée intelligente**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "8. Mindset à adopter**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "FICHE D'ANALYSE DE RÉGRESSION AVEC VARIABLES BINAIRES ET INTERACTIONS"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "1. IDENTIFICATION DES VARIABLES**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "2. ÉQUATION ESTIMÉE"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "3. INTERPRÉTATION DES COEFFICIENTS (Ceteris Paribus)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "**Coefficients principaux**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "**Interactions**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "4. EFFETS TOTAUX PAR PROFIL (tenir compte des interactions)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "5. CALCUL NUMÉRIQUE POUR UN CAS TYPIQUE"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "6. QUESTIONS DE VÉRIFICATION"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "7. PATTERN APPLIQUÉ (cocher)"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "8. ERREURS FRÉQUENTES À ÉVITER"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "9. RÉVISION FUTURE"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Pour mieux retenir.md",
+    "title": "POUR ALLER PLUS VITE (checklist rapide)**"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "1. Scripts Used in Chapter 01"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.1: R-as-a-Calculator.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.2: Install-Packages.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.3: Objects.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.4: Vectors.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.5: Vector-Functions.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.6: Logical.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.7: Factors.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.8: Vector-Indices.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.9: Matrices.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.10: Matrix-Operators.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.11: Lists.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.12: Data-frames.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.13: Data-frames-vars.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.14: Data-frames-subsets.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.15: RData-Example.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.16: Example-Data.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.17: Plot-Overlays.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.18: Plot-Matplot.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.19: Plot-Legend.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.20: Plot-Legend2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.21: mpg-data.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.22: mpg-scatter.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.23: mpg-regr.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.24: mpg-color1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.25: mpg-color2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.26: mpg-color3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.27: mpg-color4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.28: mpg-advanced.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.29: wdi-data.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.30: wdi-manipulation.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.31: wdi-pipes.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.32: wdi-ctryinfo.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.33: wdi-ctryavg.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.34: wdi-ctryavg-beautify.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.35: Descr-Tables.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.36: Histogram.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.37: KDensity.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.38: Descr-Stats.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.39: PMF-example.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.40: Random-Numbers.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.41: Example-C-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.42: Example-C-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.43: Critical-Values-t.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.44: Example-C-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.45: Example-C-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.46: Example-C-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.47: Examples-C2-C6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.48: Examples-C3-C5-C7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.49: Test-Results-List.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.50: Simulate-Estimate.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.51: Simulation-Repeated.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.52: Simulation-Repeated-Results.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "2. Scripts Used in Chapter 02"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.53: Simulation-Inference.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 1.54: Simulation-Inference-Figure.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.1: Example-2-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.2: Example-2-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.3: Example-2-3-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.4: Example-2-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.5: Example-2-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.6: Example-2-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.7: Example-2-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.8: Example-2-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.9: Example-2-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.10: Example-2-10.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.11: Example-2-11.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.12: SLR-Origin-Const.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.13: Example-2-12.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.14: SLR-Sim-Sample.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.15: SLR-Sim-Model.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.16: SLR-Sim-Model-Condx.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.17: SLR-Sim-Results.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.18: SLR-Sim-ViolSLR4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.19: SLR-Sim-Results-ViolSLR4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.20: SLR-Sim-ViolSLR5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 2.21: SLR-Sim-Results-ViolSLR5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "3. Scripts Used in Chapter 03"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.1: Example-3-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.2: Example-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.3: Example-3-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.4: Example-3-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.5: Example-3-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.6: OLS-Matrices.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.7: Omitted-Vars.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.8: MLR-SE.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 3.9: MLR-VIF.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "4. Scripts Used in Chapter 04"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.1: Example-4-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.2: Example-4-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.3: Example-4-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.4: F-Test-MLB.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "5. Scripts Used in Chapter 05"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.5: F-Test-MLB-auto.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.6: F-Test-MLB-auto2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.7: F-Test-MLB-auto3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 4.8: Example-4-10.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 5.1: Sim-Asy-OLS-norm.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 5.2: Sim-Asy-OLS-chisq.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 5.3: Sim-Asy-OLS-uncond.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "6. Scripts Used in Chapter 06"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 5.4: Example-5-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.1: Data-Scaling.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.2: Example-6-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.3: Formula-Logarithm.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.4: Example-6-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.5: Example-6-2-Anova.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.6: Example-6-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.7: Example-6-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.8: Example-6-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.9: Effects-Manual.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 6.10: Effects-Automatic.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "7. Scripts Used in Chapter 07"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.1: Example-7-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.2: Example-7-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.3: Example-7-1-logical.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.4: Regr-Factors.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.5: Regr-Factors-Anova.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "8. Scripts Used in Chapter 08"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.6: Example-7-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.7: Dummy-Interact.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 7.8: Dummy-Interact-Sep.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 8.1: Example-8-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 8.2: Example-8-2-cont.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 8.3: Example-8-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 8.4: Example-8-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 8.5: Example-8-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 8.6: WLS-Robust.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "9. Scripts Used in Chapter 09"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 8.7: Example-8-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.1: Example-9-2-manual.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.2: Example-9-2-automatic.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.3: Nonnested-Test.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.4: Sim-ME-Dep.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.5: Sim-ME-Explan.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.6: NA-NaN-Inf.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.7: Missings.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.8: Missings-Analyses.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.9: Outliers.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 9.10: LAD.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "10. Scripts Used in Chapter 10"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.1: Example-10-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.2: Example-Barium.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.3: Example-zoo.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.4: Example-quantmod.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.5: Example-10-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.6: Example-10-4-contd.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.7: Example-10-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 10.8: Example-10-11.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "11. Scripts Used in Chapter 11"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 11.1: Example-11-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 11.2: Example-EffMkts.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 11.3: Simulate-RandomWalk.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 11.4: Simulate-RandomWalkDrift.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 11.5: Simulate-RandomWalkDrift-Diff.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 11.6: Example-11-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "12. Scripts Used in Chapter 12"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 12.1: Example-12-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 12.2: Example-12-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 12.3: Example-DWtest.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 12.4: Example-12-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 12.5: Example-12-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 12.6: Example-12-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 12.7: Example-ARCH.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "13. Scripts Used in Chapter 13"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 13.1: Example-13-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 13.2: Example-13-3-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 13.3: Example-13-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 13.4: PDataFrame.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 13.5: Example-PLM-Calcs.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 13.6: Example-FD.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 13.7: Example-13-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "14. Scripts Used in Chapter 14"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.1: Example-14-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.2: Example-14-4-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.3: Example-14-4-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.4: Example-HausmTest.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.5: Example-Dummy-CRE-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.6: Example-Dummy-CRE-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.7: Example-CRE-test-RE.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "## Script \"Example-Dummy-CRE-1.R\" which has to be run first."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.8: Example-CRE2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 14.9: Example-13-9-ClSE.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "15. Scripts Used in Chapter 15"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 15.1: Example-15-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 15.2: Example-15-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 15.3: Example-15-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 15.4: Example-15-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 15.5: Example-15-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 15.6: Example-15-10.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "16. Scripts Used in Chapter 16"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 16.1: Example-16-5-ivreg.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 16.2: Example-16-5-systemfit-prep.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 16.3: Example-16-5-systemfit.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 16.4: Example-16-5-3sls.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "17. Scripts Used in Chapter 17"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.1: Example-17-1-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.2: Example-17-1-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.3: Example-17-1-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.4: Example-17-1-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.5: Example-17-1-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.6: Example-17-1-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.7: Binary-Predictions.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.8: Binary-Margeff.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.9: Example-17-1-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.10: Example-17-1-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.11: Example-17-3-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.12: Example-17-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.13: Tobit-CondMean.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.14: Example-17-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.15: Example-17-2-survreg.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.16: Example-17-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.17: TruncReg-Simulation.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 17.18: Example-17-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "18. Scripts Used in Chapter 18"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 18.1: Example-18-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 18.2: Example-18-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 18.3: Example-18-4-urca.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 18.4: Simulate-Spurious-Regression-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 18.5: Simulate-Spurious-Regression-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 18.6: Example-18-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 18.7: Example-18-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "19. Scripts Used in Chapter 19"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 19.1: ultimate-calcs.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 19.2: projecty-master.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Script R Heiss Wooldridge.md",
+    "title": "Script 19.3: LaTeXwithR.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "1. Scripts Used in Chapter 01"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.1: R-as-a-Calculator.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.2: Install-Packages.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.3: Objects.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.4: Vectors.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.5: Vector-Functions.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.6: Logical.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.7: Factors.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.8: Vector-Indices.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.9: Matrices.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.10: Matrix-Operators.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.11: Lists.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.12: Data-frames.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.13: Data-frames-vars.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.14: Data-frames-subsets.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.15: RData-Example.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.16: Example-Data.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.17: Plot-Overlays.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.18: Plot-Matplot.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.19: Plot-Legend.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.20: Plot-Legend2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.21: mpg-data.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.22: mpg-scatter.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.23: mpg-regr.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.24: mpg-color1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.25: mpg-color2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.26: mpg-color3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.27: mpg-color4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.28: mpg-advanced.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.29: wdi-data.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.30: wdi-manipulation.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.31: wdi-pipes.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.32: wdi-ctryinfo.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.33: wdi-ctryavg.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.34: wdi-ctryavg-beautify.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.35: Descr-Tables.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.36: Histogram.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.37: KDensity.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.38: Descr-Stats.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.39: PMF-example.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.40: Random-Numbers.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.41: Example-C-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.42: Example-C-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.43: Critical-Values-t.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.44: Example-C-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.45: Example-C-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.46: Example-C-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.47: Examples-C2-C6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.48: Examples-C3-C5-C7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.49: Test-Results-List.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.50: Simulate-Estimate.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.51: Simulation-Repeated.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.52: Simulation-Repeated-Results.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "2. Scripts Used in Chapter 02"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.53: Simulation-Inference.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 1.54: Simulation-Inference-Figure.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.1: Example-2-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.2: Example-2-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.3: Example-2-3-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.4: Example-2-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.5: Example-2-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.6: Example-2-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.7: Example-2-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.8: Example-2-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.9: Example-2-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.10: Example-2-10.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.11: Example-2-11.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.12: SLR-Origin-Const.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.13: Example-2-12.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.14: SLR-Sim-Sample.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.15: SLR-Sim-Model.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.16: SLR-Sim-Model-Condx.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.17: SLR-Sim-Results.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.18: SLR-Sim-ViolSLR4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.19: SLR-Sim-Results-ViolSLR4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.20: SLR-Sim-ViolSLR5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 2.21: SLR-Sim-Results-ViolSLR5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "3. Scripts Used in Chapter 03"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.1: Example-3-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.2: Example-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.3: Example-3-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.4: Example-3-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.5: Example-3-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.6: OLS-Matrices.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.7: Omitted-Vars.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.8: MLR-SE.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 3.9: MLR-VIF.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "4. Scripts Used in Chapter 04"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.1: Example-4-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.2: Example-4-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.3: Example-4-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.4: F-Test-MLB.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "5. Scripts Used in Chapter 05"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.5: F-Test-MLB-auto.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.6: F-Test-MLB-auto2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.7: F-Test-MLB-auto3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 4.8: Example-4-10.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 5.1: Sim-Asy-OLS-norm.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 5.2: Sim-Asy-OLS-chisq.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 5.3: Sim-Asy-OLS-uncond.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "6. Scripts Used in Chapter 06"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 5.4: Example-5-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.1: Data-Scaling.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.2: Example-6-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.3: Formula-Logarithm.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.4: Example-6-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.5: Example-6-2-Anova.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.6: Example-6-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.7: Example-6-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.8: Example-6-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.9: Effects-Manual.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 6.10: Effects-Automatic.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "7. Scripts Used in Chapter 07"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.1: Example-7-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.2: Example-7-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.3: Example-7-1-logical.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.4: Regr-Factors.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.5: Regr-Factors-Anova.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "8. Scripts Used in Chapter 08"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.6: Example-7-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.7: Dummy-Interact.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 7.8: Dummy-Interact-Sep.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 8.1: Example-8-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 8.2: Example-8-2-cont.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 8.3: Example-8-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 8.4: Example-8-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 8.5: Example-8-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 8.6: WLS-Robust.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "9. Scripts Used in Chapter 09"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 8.7: Example-8-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.1: Example-9-2-manual.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.2: Example-9-2-automatic.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.3: Nonnested-Test.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.4: Sim-ME-Dep.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.5: Sim-ME-Explan.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.6: NA-NaN-Inf.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.7: Missings.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.8: Missings-Analyses.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.9: Outliers.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 9.10: LAD.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "10. Scripts Used in Chapter 10"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.1: Example-10-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.2: Example-Barium.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.3: Example-zoo.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.4: Example-quantmod.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.5: Example-10-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.6: Example-10-4-contd.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.7: Example-10-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 10.8: Example-10-11.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "11. Scripts Used in Chapter 11"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 11.1: Example-11-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 11.2: Example-EffMkts.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 11.3: Simulate-RandomWalk.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 11.4: Simulate-RandomWalkDrift.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 11.5: Simulate-RandomWalkDrift-Diff.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 11.6: Example-11-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "12. Scripts Used in Chapter 12"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 12.1: Example-12-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 12.2: Example-12-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 12.3: Example-DWtest.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 12.4: Example-12-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 12.5: Example-12-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 12.6: Example-12-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 12.7: Example-ARCH.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "13. Scripts Used in Chapter 13"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 13.1: Example-13-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 13.2: Example-13-3-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 13.3: Example-13-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 13.4: PDataFrame.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 13.5: Example-PLM-Calcs.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 13.6: Example-FD.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 13.7: Example-13-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "14. Scripts Used in Chapter 14"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.1: Example-14-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.2: Example-14-4-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.3: Example-14-4-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.4: Example-HausmTest.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.5: Example-Dummy-CRE-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.6: Example-Dummy-CRE-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.7: Example-CRE-test-RE.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "## Script \"Example-Dummy-CRE-1.R\" which has to be run first."
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.8: Example-CRE2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 14.9: Example-13-9-ClSE.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "15. Scripts Used in Chapter 15"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 15.1: Example-15-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 15.2: Example-15-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 15.3: Example-15-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 15.4: Example-15-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 15.5: Example-15-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 15.6: Example-15-10.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "16. Scripts Used in Chapter 16"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 16.1: Example-16-5-ivreg.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 16.2: Example-16-5-systemfit-prep.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 16.3: Example-16-5-systemfit.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 16.4: Example-16-5-3sls.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "17. Scripts Used in Chapter 17"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.1: Example-17-1-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.2: Example-17-1-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.3: Example-17-1-3.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.4: Example-17-1-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.5: Example-17-1-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.6: Example-17-1-6.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.7: Binary-Predictions.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.8: Binary-Margeff.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.9: Example-17-1-7.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.10: Example-17-1-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.11: Example-17-3-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.12: Example-17-3-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.13: Tobit-CondMean.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.14: Example-17-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.15: Example-17-2-survreg.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.16: Example-17-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.17: TruncReg-Simulation.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 17.18: Example-17-5.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "18. Scripts Used in Chapter 18"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 18.1: Example-18-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 18.2: Example-18-4.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 18.3: Example-18-4-urca.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 18.4: Simulate-Spurious-Regression-1.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 18.5: Simulate-Spurious-Regression-2.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 18.6: Example-18-8.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 18.7: Example-18-9.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "19. Scripts Used in Chapter 19"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 19.1: ultimate-calcs.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 19.2: projecty-master.R"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\ScriptR_Woo_colore.md",
+    "title": "Script 19.3: LaTeXwithR.R"
+  }
+]
