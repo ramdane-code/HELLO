@@ -1,0 +1,572 @@
+[
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "lien vers Problème - Nom",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "lien vers Problème - Nom",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "Hypothèse - Nom",
+    "suggestion": "_templates/HYPOTHÈSE",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "Hypothèse - Nom",
+    "suggestion": "_templates/HYPOTHÈSE",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "Concept apparenté - Nom",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "Pattern apparenté - Nom du pattern",
+    "suggestion": "_templates/PATTERN",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "Workflow - Nom du workflow",
+    "suggestion": "_templates/Workflow (causal panel)",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\CONCEPT.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
+    "originalLink": "Concept - Nom du concept concerné",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
+    "originalLink": "Test - Nom",
+    "suggestion": "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL/test_hausman.R",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
+    "originalLink": "R - Fonction de test",
+    "suggestion": "_templates/R (CODE FONCTION Package)",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
+    "originalLink": "Problème - Nom du problème qui apparaît",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\HYPOTHÈSE.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "lien vers Problème principal - Nom du problème",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Hypothèse - Nom",
+    "suggestion": "_templates/HYPOTHÈSE",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Hypothèse - Nom",
+    "suggestion": "_templates/HYPOTHÈSE",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Workflow - Nom de la méthode",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Problème fréquent - Nom",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Problème fréquent - Nom",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Test - Nom",
+    "suggestion": "Mes_Notes/04_CODE R/01_METHODES_ESTIMATION (Templates)/PANEL/test_hausman.R",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "R - Nom de la fonction de test",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Pattern - Nom",
+    "suggestion": "_templates/PATTERN",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\OBJECTIF.md",
+    "originalLink": "Pattern - Nom",
+    "suggestion": "_templates/PATTERN",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Étape liée à un concept",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Étape liée à un concept",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Étape liée à un concept",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Lien vers variante",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Lien vers variante",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Workflow - Nom",
+    "suggestion": "_templates/Workflow (causal panel)",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Exemple - Nom",
+    "suggestion": "Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Exemple - Nom",
+    "suggestion": "Mes_Notes/04_CODE R/04_DONNEES_EXEMPLES/panel_exemple.csv",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Problème - Nom",
+    "suggestion": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Problème - Nom",
+    "suggestion": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PATTERN.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Solution 1",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Méthode - Nom",
+    "suggestion": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Solution 2",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Méthode - Nom",
+    "suggestion": "SOURCES/Heiss R/Heiss 18. TS Econometrics Advanced Topics Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Objectif - Nom",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Solution 1",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Méthode 1",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Solution 2",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Méthode 2",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Concept parent",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\PROBLEME.md",
+    "originalLink": "Objectif concerné",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
+    "originalLink": "Concept - Nom",
+    "suggestion": "_templates/CONCEPT",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
+    "originalLink": "Workflow - Nom",
+    "suggestion": "_templates/Workflow (causal panel)",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\R (CODE FONCTION Package).md",
+    "originalLink": "Workflow - Nom",
+    "suggestion": "_templates/Workflow (causal panel)",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "OBJECTIF",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "OBJECTIF",
+    "suggestion": "_templates/OBJECTIF",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "PROBLÈME",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "PROBLÈME",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "PROBLÈME",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "PROBLÈME",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "HYPOTHÈSE",
+    "suggestion": "_templates/HYPOTHÈSE",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "PATTERN",
+    "suggestion": "_templates/PATTERN",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "PATTERN",
+    "suggestion": "_templates/PATTERN",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow (causal panel).md",
+    "originalLink": "R",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Lien vers objectif",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Lien vers problème",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Problème 1",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Problème 2",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Exemple 1",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Exemple 2",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Concept 1",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\_templates\\Workflow.md",
+    "originalLink": "Concept 2",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
+    "originalLink": "Effets_Fixes",
+    "suggestion": "Mes_Notes/01_CONCEPTS CLES (à maintenir à jour)/Effets_Fixes",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
+    "originalLink": "Variables_Instrumentales",
+    "suggestion": "Mes_Notes/01_CONCEPTS CLES (à maintenir à jour)/Variables_Instrumentales",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
+    "originalLink": "Hétéroscédasticité",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\Mes_Notes\\01_CONCEPTS CLES (à maintenir à jour)\\Concepts clés (à maintenir à jour).md",
+    "originalLink": "Endogénéité",
+    "suggestion": "Mes_Notes/03_PROBLEMES/Endogénéité",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1 Heiss Résumé (à nettoyer).md",
+    "originalLink": "../../zImages/Pasted image 20260111174913.png",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Chap1 Heiss Résumé (à nettoyer).md",
+    "originalLink": "../../zImages/Pasted image 20260112064403.png",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^y85",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^δ1",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^2e761f",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^74e7c9",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^fcf4b6",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^obsETcol",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^8b2fb9",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr#^66e961",
+    "suggestion": "SOURCES/Heiss R/Heiss 13 et 14. Data en coupe transversales poolées et Panels_Fr",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 15. Variables instrumentales#^521849",
+    "suggestion": "SOURCES/Heiss R/Heiss 15. Variables instrumentales",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "Heiss 15. Variables instrumentales#^54be7e",
+    "suggestion": "SOURCES/Heiss R/Heiss 15. Variables instrumentales",
+    "confidence": "high"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "ITER.10-Régression avec données de Panel (rwpd)#^121489",
+    "suggestion": null,
+    "confidence": "low"
+  },
+  {
+    "file": "C:\\Users\\ramda\\.vscode\\MonProjet\\HELLO\\Base_c\\SOURCES\\Heiss R\\Mon Index des notes et astuces R.md",
+    "originalLink": "ITER.10-Régression avec données de Panel (rwpd)#^5b5c71",
+    "suggestion": null,
+    "confidence": "low"
+  }
+]

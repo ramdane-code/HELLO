@@ -1,3 +1,13 @@
 {
+  "editor": {
+    "useFrontMatter": false,
+    "fileExtension": ".md"
+  },
+  "core": {
+    "newNotesFolder": ".",
+    "followSymbolLink": true
+  }
+}
+{
   "promptDelete": false
 }
